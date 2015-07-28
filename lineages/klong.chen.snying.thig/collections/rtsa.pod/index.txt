@@ -1,6 +1,5 @@
 Volume I
 
- 0. them  byang/ (1-3)
  1. ka.   klong chen snying gi thig le'i rtogs pa brjod pa da kki'i gsang gtam chen mo/ (da kki'i gsang gtam) (4-16)
  2. kha.  gsang ba chen po nyams snang gi rtogs brjod chu zla i gar mikhan/ (rtogs briod) 17-68
  3. ga.    gnad byang thugs kyi sgrom bu/ (gnad byang) (69-78)
@@ -40,9 +39,6 @@ them-byang: ki pa g.yang chog gter bum sgrub pa'i lhan thabs dang/ bse rags rdzo
 
 Volume 2
 
-contents
-
- 0.        them byang (1-2)
  1. ji.   thugs sgrub dpal chen 'dus pa las: khrag 'thung rigs bzhi'i sgos dbang (khrag 'thung sgos dbang) (3-17)
  2. ju.    dpal chen bka' 'dus rgya mtsho las: sgrubs pa?i khog ?bubs rin po che 'i za ma tog (sgrub khog) (18-43)
  3. je.   thugs sgrub dpal chen 'dus pa las he ru ka rigs bzhl'i scos sgrub bsnyen pa'l dmar byang (rigs bzhl?i bsnyen yig)) (44-48)
@@ -64,30 +60,26 @@ contents
 19. du.   klong chen snying gi thig le las: rta mgrin 'dus pa'i sgrub thabs (rta mgrin 'dus pa)) (400-402)
 20. de.    yang gsang bla ma'i sgrub pa thig le'i rgya can gyi brgyud 'debs byin rlabs char 'bebs (snying tig yang gsang bla sgrub las byang) (403-421) 
 
-dkar-chag: yang gsang bla sgrub thog mtha' chog bsgrigs can.
+dkar chag: yang gsang bla sgrub thog mtha' chog bsgrigs can
 
 21. do.   klong chen snying gi thig le las: bla ma drag po rta khyung 'bar ba (rta khyung) (422-426)
 22. ni.     bla ma drag po rta khyung 'bar ba las: dbang dang bsnyen pa'i gnad yig (bsnyen yig) (427-429)
-23. nu.     bla ma drag po rta khyung 'bar ba las: klu'I gdon 'grol 'og gdon mthar byed (gdon 'grol) (430-444)
+23. nu.     bla ma drag po rta khyung 'bar ba las: klu'i gdon 'grol 'og gdon mthar byed (gdon 'grol) (430-444)
 24. ne.   klong chen snying gi thig le las: gzhi lam 'bras bu'i smon lam (rdzogs chen smon lam) (445-447)
 26. no.     sku gsum zhing khams sbyong ba'i gsol 'debs smon lam (zhing sbyong smon lam) (448-453)
 27. pi.     bar do'i smon lam dgongs gcig rgya mtsho (bar do'i smon lam) (454-464)
 28. pu.    bden tshig 'grub pa'i pra ni dha na rnam mkhyen grong jug (pra ni dha) (465-468)
-29. pe.   klong chen snying gi thig le las: rgyal ba rig 'dzin gyi srog ?khor dpal gyi gdu bu bzhugs: btags grol (srog 'khor) (469-479)
+29. pe.   klong chen snying gi thig le las: rgyal ba rig 'dzin gyi srog 'khor dpal gyi gdu bu bzhugs: btags grol (srog 'khor) (469-479)
 30. po.     zhi khro ngang song sbyong ba'i chog sgrigs khrom dkrugs gsal ba'i rgyan zhes bya ba bklags chog mar bkod pa (zhi khro chog sgrigs) (480-540)
 
 Volume 3
 
-contents
-
-0. them byang. 1-2
-
 gsang dbang gi lam khyer skor
 
- 1. dze.  klong chen snying gi thig le las: 'phoba ma. bsgoms sangs rcyas (3-6) 
- 2. dzo.   'pho ba'i ngo sprod nyung ngu: gshin 'pho) (7-12) 
+ 1. dze.  klong chen snying gi thig le las: 'pho ba ma bsgoms sangs rgyas (3-6) 
+ 2. dzo.   'pho ba'i ngo sprod nyung ngu: gshin 'pho (7-12) 
  3. wi.   klong chen snying gi thig le las: bde stong rlung gi rdzogs rim snyan rgyud shog dril yid bzhin nor bu (bde stong rlung rdzogs zhal shes dang bcas pa) (13-22) 
- 4. wu.   klong chen snying gi thig le las: gtum mo'i 'bar 'dzag yig chung) (23-26) 
+ 4. wu.   klong chen snying gi thig le las: gtum mo'i 'bar 'dzag yig chung (23-26) 
  5. we.   snyan brgyud shog dril yid bzhin nor bu'i sbas don thabs lam ma bsgoms sangs rgyas ('khrul 'khor) (27ñ35) 
  6. wo.   klong chen snying gi thig le las: rig 'dzin 'khrul 'khor sbas don gsal ba ('khrul 'khor lag khrid) (36-51) 
  7. zhi.  klong chen snying gi thig le las: gtum mo'i gsol 'debs rdo rje'i tshig rkang) 52 
@@ -96,23 +88,23 @@ gsang dbang gi lam khyer skor
 10. zho.  klong chen snying gi thig le las: rdzogs pa chen po kun tu bzang po ye shes klong gi rgyud (le'u lnga pa) (73-95)
 11. zi.   klong chen snying gi thig le las: man ngag rdzogs pa chen po'i rgyud phyi ma (96-105) 
 12. zu.   klong chen snying gi thig le las: kun tu bzang po'i dgongs nyams (106-115)
-13. ze.   klong chen snying gi thig le las: rdzogs pa chen po'i gnad gsum shan 'byed: ye shes gnad gsum shan 'byed) (116-120)
+13. ze.   klong chen snying gi thig le las: rdzogs pa chen po'i gnad gsum shan 'byed: ye shes gnad gsum shan 'byed (116-120)
 14. zo.    thun mong gi sngon 'gro sems sbyong rnam bdun gyi don khrid thar pa'i them skas (blo sbyong gi khrid yig thar pa'i them skas) (121-226)
 15. 'i.  rdzogs pa chen po klong chen snying tig gi thun mong gi sngon 'gro khrid kyi lag len la 'debs lugs (227-263)
-16. 'u.  rdzogs pa chen po klong chen snying thig gi thun mong ma yin pa'i sngon 'gro'i khrid yig dran pa nyer gzhag. (264-297)
+16. 'u.  rdzogs pa chen po klong chen snying thig gi thun mong ma yin pa'i sngon 'gro'i khrid yig dran pa nyer gzhag (264-297)
 17. 'e.  rdzogs pa chen po klong chen snying tig gi gdod ma'i mgon po'i lam gyi rim pa'i khrid yig ye shes bla ma (298-462)
 
 rgya b chos skor
 
 18. 'o.   klong chen snying gi thig le las: rdo rje theg pa'i smin grol lam gyi rim pa las 'phros pa'i man ngag gi rgyab brten padma dkar po (463-516)
-19. yi.    gnas lugs rdo rje'i tshig rkang) (517-519)
+19. yi.    gnas lugs rdo rje'i tshig rkang (517-519)
 20. yu.     rig 'dzin mkha' 'gro dgyes pa'i gsang gtam/
            /yid dpyod grub mtha' 'jig pa'i tho lu ma/
         /snying phyung lag mthil bkram pa'I man ngag /gsang bdag dga' rab dpa' bo'i thol glu/
            /kun mkhyen zhal lung bdud rtsi'i thigs pa (rdo rje'i tshig rkang gi don 'grel kun mkhyen zhal lung) (520-546)
-21. ye.  snying tig sgom pa?i bya bral gyi/ gol shor tshar gcod seng ge'i nga ro (547-565)
+21. ye.  snying tig sgom pa'i bya bral gyi/ gol shor tshar gcod seng ge'i nga ro (547-565)
 22. yo,  rdzogs pa chen po gnas lugs cer mthong (566-573)
 23. ri.      ri chos zhal gdams ngo mtshar rgya mtsho (574-589)
 24. ru.   klong chen snying thig gi gtor ma'i re gzig gsal ba: gtor ma'i zin bris) (590ñ595)
 
-
+digitized by 'jam dpal sgrol ma
