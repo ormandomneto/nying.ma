@@ -38,9 +38,9 @@ Picture. {\bf #2}\@br\@br
 \fi}
 
 \newcommand{\ru}{}
-\newcommand{\ti}{}
+\newcommand{\ti}{\@span{style="font-face='DDC Uchen'"}{}}
 
-\setcounter{secnumdepth}{0}
+% \setcounter{secnumdepth}{0}
 
   \let\oldmeta=\@meta
   \renewcommand{\@meta}{%
