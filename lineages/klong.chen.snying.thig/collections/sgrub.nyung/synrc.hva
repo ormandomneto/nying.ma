@@ -38,7 +38,7 @@ Picture. {\bf #2}\@br\@br
 \fi}
 
 \newcommand{\ru}{}
-\newcommand{\ti}{\@span{style="font-face='DDC Uchen'"}{}}
+\newcommand{\ti}{}
 
 % \setcounter{secnumdepth}{0}
 
