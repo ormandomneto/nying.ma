@@ -15,7 +15,7 @@
 \usepackage{hevea}
 
 \newcommand{\Vspace}[1]{}
-\newcommand{\Section}[1]{\@br\@br\blue\Large #1 \black\@br\@br}
+\newcommand{\Section}[1]{\Large\section{#1}}
 \newcommand{\parbox}[9]{{}\@br}
 
 \newcommand{\includeimage}[3]{
