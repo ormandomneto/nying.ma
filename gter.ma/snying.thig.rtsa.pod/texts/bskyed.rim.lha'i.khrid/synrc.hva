@@ -42,8 +42,8 @@ Picture. {\bf #2}\@br\@br
 
 %\newcommand{\verse}{}
 %\newcommand{\endverse}{}
-\newcommand{\siderules}{}
-\newcommand{\endsiderules}{}
+\newcommand{\siderules}{\blue}
+\newcommand{\endsiderules}{\black}
 \newcommand{\tablefootnote}{}
 
 

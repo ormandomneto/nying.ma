@@ -47,7 +47,7 @@ Picture. {\bf #2}\@br\@br
 \newcommand{\tablefootnote}{}
 
 
-% \setcounter{secnumdepth}{0}
+\setcounter{secnumdepth}{0}
 
   \let\oldmeta=\@meta
   \renewcommand{\@meta}{%

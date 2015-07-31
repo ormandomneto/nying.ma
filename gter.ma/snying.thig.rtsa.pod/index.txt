@@ -72,6 +72,7 @@ dkar chag: yang gsang bla sgrub thog mtha' chog bsgrigs can
 26. no.     sku gsum zhing khams sbyong ba'i gsol 'debs smon lam (zhing sbyong smon lam) (448-453)
 27. pi.     bar do'i smon lam dgongs gcig rgya mtsho (bar do'i smon lam) (454-464)
 28. pu.    bden tshig 'grub pa'i pra ni dha na rnam mkhyen grong jug (pra ni dha) (465-468)
+           bden tshig 'grub pa'i pra Ni d+ha rnam mkhyen grong 'jug ces bya ba ni/
 29. pe.   klong chen snying gi thig le las: rgyal ba rig 'dzin gyi srog 'khor dpal gyi gdu bu bzhugs: btags grol (srog 'khor) (469-479)
 30. po.     zhi khro ngang song sbyong ba'i chog sgrigs khrom dkrugs gsal ba'i rgyan zhes bya ba bklags chog mar bkod pa (zhi khro chog sgrigs) (480-540)
 
