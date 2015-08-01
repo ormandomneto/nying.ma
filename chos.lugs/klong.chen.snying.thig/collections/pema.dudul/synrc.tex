@@ -7,6 +7,8 @@
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \usepackage{hyphenat}
+\usepackage{import}
+
 %\usepackage{caption}
 %\usepackage[usenames,dvipsnames]{color}
 \usepackage[top=18mm, bottom=22.4mm,
@@ -89,6 +91,14 @@
 %    \null
 %    \thispagestyle{empty}
 %    \newpage}
+
+\newcommand{\Vspace}[1]{\vspace{#1}}
+\newcommand{\Section}[1]{\section{#1}}
+\newcommand{\SectionNo}[1]{\section*{#1}}
+\newcommand{\SubSection}[1]{\subsection{#1}}
+\newcommand{\SubSectionNo}[1]{\subsection*{#1}}
+\newcommand{\SubSubSection}[1]{\subsubsection{#1}}
+\newcommand{\SubSubSectionNo}[1]{\subsubsection*{#1}}
 
 \newcommand{\ru}{
     \setdefaultlanguage{russian}
