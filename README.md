@@ -5,7 +5,7 @@ Features
 --------
 
 * Biggest Nyingma Digital Library
-* Multilanguage
+* Multilingual
 * Canonical checked texts and images
 * Texts in TeX publishing format
 * Open Source Compilations and Books
