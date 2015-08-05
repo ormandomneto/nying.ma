@@ -38,7 +38,7 @@ Picture. {\bf #2}\@br\@br
 \fi}
 
 \newcommand{\ru}{}
-\newcommand{\ti}{}
+\newcommand{\ti}{\@span{style="font-family:ti;"}}
 
 %\newcommand{\verse}{}
 %\newcommand{\endverse}{}

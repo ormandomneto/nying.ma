@@ -10,7 +10,7 @@ H1 { color: darkblue; font-weight: bold; font-size:20pt; margin-top:20px; margin
 H2 { color: darkblue; font-size:18pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
 H3 { font-size:14pt; margin-top:20px; margin-bottom:10px; margin-right:6px; } 
 P { font-size:14pt; margin-top: 0px; margin-bottom: 8px; }
-.ti { font-family: ti; }
+.ti { font-family: ti; font-weight: lighter;}
 P.poem { font-size:12pt; margin-top: 0px; margin-bottom: 8px; white-space: pre;}
 LI { font-size:12pt; }
 pre { font-size:10pt; font-family: Lucida Console; }
@@ -34,8 +34,8 @@ pre { font-size:10pt; font-family: Lucida Console; }
 
 @font-face {
     font-family: 'ti';
-    src: url('TibetanChogyal.ttf') format('truetype');
-    font-weight: normal;
+    src: url('TibetanMachineWeb.eot');
+    font-weight: lighter;
     font-style: normal;
 };
 
