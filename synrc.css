@@ -39,3 +39,109 @@ pre { font-size:10pt; font-family: Lucida Console; }
     font-style: normal;
 };
 
+    #navcontainer {
+        margin-top: -20px;
+        padding: 0;
+        background-color:#CCC;
+        height: auto;
+        border-bottom: 1px solid #666;
+        z-index: 100;
+    }
+
+    #nav {
+        margin: -20px -20px 30px 30px;
+        float: left;
+        list-style: none;
+        width: 120%;
+        line-height: 1;
+        background: #DDD;
+        padding: 0;
+        margin: 0;
+        z-index: 100;
+    }
+
+    #nav ul {
+        position: absolute;
+        left: -1000px;
+        inline-block: width;
+        float: left;
+        height: auto;
+        width: 140%;
+        display: block;
+        list-style: none;
+        border-top: 0.1em solid #666;
+        border-right: 0.1em solid #666;
+        border-bottom: 0.1em solid #666;
+        border-left: 0.6em solid #666;
+        margin: 0;
+        padding: 0;
+        z-index: 100;
+        background: #ffffff;
+    }
+
+    #nav ul li {
+	    position: relative;
+        float: left;
+        padding: 0;
+        margin-top: -1px;
+        margin-bottom: -2px;
+        width: 140%;
+        height: 120%;
+        z-index: 100;
+		color: #ddd;
+        background: #ffffff;
+    }
+
+    #nav li {
+        color: white;
+	    position: relative;
+        float: left;
+        padding: 0;
+        margin: 0;
+        width: auto;
+        z-index: 100;
+        background: #ffffff;
+    }
+
+    #nav li a {
+        position: relative;
+        width: 120%;
+        display: block;
+        border-left:  0.1em solid #fff;
+        border-top:   0.1em solid #fff;
+        border-right: 0.1em solid #aaa;
+        border-bottom: none;
+        padding: 0.4em 1em;
+        color: #444;
+        background: #ddd;
+        text-decoration: none;
+        inline-block: none;
+    }
+
+    #nav li ul li a {
+        width: 100%;
+        left: auto;
+        inline-block: width;
+    }
+
+    #nav a:active,
+	#nav a:hover {
+        color: #000;
+        left: auto;
+        background: #bbb;
+        width: 100%;
+    }
+
+    #nav li:hover ul,
+    #nav li li:hover ul,
+    #nav li li li:hover ul,
+    #nav li.sfhover ul,
+    #nav li li.sfhover ul,
+    #nav li li li.sfhover ul
+    {
+        float: left;
+        left: auto;
+        inline-block: float;
+        width: auto;
+        z-index: 100;
+    }
