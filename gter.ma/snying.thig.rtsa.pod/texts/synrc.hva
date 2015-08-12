@@ -38,7 +38,7 @@ Picture. {\bf #2}\@br\@br
 \fi}
 
 \newcommand{\ru}{}
-\newcommand{\ti}{\@span{style="font-family:ti;"}}
+\newcommand{\ti}{\@span{style="font-family:Geometria;"}}
 
 %\newcommand{\verse}{}
 %\newcommand{\endverse}{}
@@ -57,6 +57,7 @@ Picture. {\bf #2}\@br\@br
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=IE10,chrome=1" />
   \end{rawhtml}}
-
+  \htmlhead{\rawhtmlinput{head.htx}}
+  \htmlfoot{\rawhtmlinput{foot.htx}}
   \footerfalse
 
