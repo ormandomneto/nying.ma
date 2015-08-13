@@ -1,0 +1,70 @@
+├── Canon
+│   ├── Bairo Gyubum
+│   ├── Kangyur Dege
+│   ├── Kangyur Tok Palace
+│   ├── Nyingma Gyubum Tingkye
+│   ├── Nyingma Gyubum Tsamdrak
+│   └── Tengyur Dege
+├── Gelug
+│   ├── Dalai Lama 1 Gendun Drub
+│   ├── Dalai Lama 7 Kalzang Gyatso
+│   ├── Gyaltsab Je Darma Rinchen
+│   └── Khedrub Je Gelek Pelzang
+├── Kagyu
+│   ├── Bara Kagyu Chocho
+│   ├── Bara Kagyu Serteng
+│   ├── Geshe Chapu Gendun Rinchen
+│   ├── Karmapa 15 Kakyab Dorje
+│   ├── Rigzin Chokyi Drakpa
+│   └── Tsibri Parma
+├── Nyingma
+│   ├── Adzom Drukpa Nyingthig Tsapod
+│   ├── Apam Tercho
+│   ├── Choklin Tersar
+│   ├── Dilgo Khyentse Rinpoche
+│   ├── Dodrubchen 3 Jigme Tenpai Nyima
+│   ├── Dorje Lingpa Tercho
+│   ├── Dudjom Lingpa Tercho
+│   ├── Dudjom Rinpoche
+│   ├── Dudul Dorje Zater
+│   ├── Dza Patrul Rinpoche
+│   ├── Dzogpachenpo Yangti Nagpo
+│   ├── Gongpa Zangtal
+│   ├── Gyalse Shenpen Thaye
+│   ├── Jatson Podrug
+│   ├── Jigme Lingpa Sungbum
+│   ├── Kathok Rigzin Tsewang Norbu
+│   ├── Lhatsun Namka Jigme
+│   ├── Lhatsun Namka Jigme Dorje Nyingpo
+│   ├── Lhatsun Namka Jigme Rigdzin Sodrub
+│   ├── Lodro Gyaltsen
+│   ├── Longchenpa Dzo Dun
+│   ├── Longchenpa Nyingthig Yabzhi
+│   ├── Longchenpa Sungthorbu
+│   ├── Longsal Khandro Nyingthig
+│   ├── Longsal Nyingpo
+│   ├── Mipham Sungbum
+│   ├── Nam Cho
+│   ├── Nyang Ral Nyima Ozer Kagye
+│   ├── Nyingma Kama
+│   ├── Nyoshul Khenpo
+│   ├── Padma Lingpa Tercho
+│   ├── Rinchen Terdzo Chenmo
+│   ├── Sangye Lingpa Lama Gondu
+│   ├── Sera Khandro
+│   ├── Sonam Gyaltsen
+│   ├── Tare Lhamo Tercho
+│   ├── Terdak Lingpa
+│   ├── Thekpa Shenje
+│   ├── Tsasum Yidam Gondu
+│   ├── Tsele Natsok Rangdrol
+│   └── Yonten Rinpoche Dzo
+├── Rime
+│   ├── Dzongsar Khyentse Jamyang Chokyi Lodro
+│   ├── Jamgon Kongtrul Dam Ngag Dzo
+│   ├── Jamgon Kongtrul Gyacher Kadzo
+│   └── Jamyang Khyentse Wangpo
+├── Sakya
+    ├── Lamdre Lobshe
+    ├── Lamdre Tsokshe
+    └── Sakya Kabum
