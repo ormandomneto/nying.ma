@@ -72,11 +72,49 @@ W25815          3900-3905
 
 Reproduced from a manuscript collection of Nyingma canonical materials
 from the Jangtang area in Ladakh; includes an ancient example of the
-'Dra 'bag chen mo biography of Vairocana and therefore popularly know
+'dra 'bag chen mo biography of Vairocana and therefore popularly know
 as the Bairo Gyubum
 W21519          577-584
 
 # NYINGMA
+
+## a 'dzom 'gro 'dul dpa' bo rdo rje'i gsung 'bum :10 Adzom Drukpa
+
+Collected Works by Nyingma master Adzom Drugpa Drodul Pawo Dorje (1842-1924).
+W1KG16648
+W19665 I1CZ2716
+
+## nyag bla rang rig rdo rje'i gter chos :42 Ranrig Dorje Tercho
+
+Collected Treasure Revelations by a modern visionary from Nyarong, Rangrik Dorje (1847-1903).
+W1PD289 I1PD291-I1PD332
+
+## gser rta mkhan po 'jigs med phun tshogs kyi gsung 'bum :4 Jigme Puntsok Jungne
+
+Collected Works by prominent Nyingma practitioner and Dzogchen master Khenpo Jigme Puntsok (1933-2004) of Lerung Gar Monastery.
+W00KG03976 I00KG03978-I00KG03980
+W1PD95698 I1PD95700-I1PD95703
+
+## od gsal rdo rje gsang mdzod :1 Osal Dorje Sandzo
+
+A collection of treasure revelations pertaining to Odsel Dorje Sangdzod
+teaching cycle by Garwang Zhadpa Tsel or Ajom Drukpa Drodul Pawo Dorje.
+W19666 I1KG21985
+W8LS16492
+
+## dge ba'i bshes gnyen chen mo rdo rje dgra 'dul gyi gsung pad+ma dkar po'i do shal :1 Dorje Dradul
+
+W2DB19541 I1PD34857
+
+## las rab gling pa'i gter chos :17 Sogyal Lerab Lingpa
+
+Revelations by terton Lerab Lingpa otherwise known as, Tulku Sogyal (1856-1926) of Nyagrong.
+W21810 1940-1954,2041
+
+## nyag bla pad+ma bdud 'dul gyi gter chos skor :5
+
+Revelations by the Nyingma terton Nyarong Pema Dudul (1816-1872).
+W23695 0796-0800
 
 ## gter gsar chos mdzod chen mo :388 Tersar Chodzo Chenmo
 
@@ -140,6 +178,23 @@ W3PD991 I3PD1072-I3PD1079
 
 Collection of treasure revelation texts by Sangprul Ngesdon Gyatsho (1899-1958).
 W3PD996 I3PD1421-I3PD1422
+
+## se ra mkha' 'gro kun bzang bde skyong dbang mo :4 Sera Khandro Tercho
+
+Collected Treasure Revelations by one of the greatest female masters of
+the Nyingma order, Sera Kandro Kunzang Dekyong Wangmo (1892-1940).
+She was the guru of many of the most important teachers of the last generation.
+Dudjom Rinpoche sponsored the collection and publication of these volumes.
+Scanned with the generous support of Master Tam Shek-wing of the Vajrayana Buddhism Association.
+W21888          1983-1986
+
+## se ra mkha' 'gro'i gsung 'bum :6 Sera Khandro Sunbum
+
+Collected Works and revelations by Sera Kandro Kunzang Dekyong Wangmo (1892-1940),
+one of the greatest female masters of the Nyingma order. She was the guru of many
+of the most important teachers of the last generation.
+W1PD108254 I1PD108256-I1PD108261
+
 
 ## mthu stobs gling pa'i gter chos :10 Tutop Lingpa Tercho
 
@@ -316,8 +371,9 @@ Collected writings and visionary revelations of the terton who "opened"
 the hidden land of Sikkim, Lhatsun Namka Jigme (1597-1650); reprint of
 a rare manuscript from Sikkim.
 W20865      174-177
+W1KG3654    I1KG4573-I1KG4576
 
-## rig 'dzin srog sgrub: 5 Lhatsun Namka Jigme Rigdzin Sodrub
+## rig 'dzin srog sgrub :5 Lhatsun Namka Jigme Rigdzin Sodrub
 
 Revelations by Lhatsun Namka Jigme (1567-1650) of a cycle of
 teachings which became part of the ritual of state of Sikkim.
@@ -491,11 +547,6 @@ W23183          389-392
 Collection writings of a late 19th century scholar of the Mipham tradition.
 W23946          3551-3552
 
-## se ra mkha' 'gro kun bzang bde skyong dbang mo :4 Sera Khandro
-
-Visionary revelations of the the Sera or Uza Kandro Kunzang Dekyong Wangmo (1892-1940),
-a master of the Dudjom Lingpa terma cycles
-W21888          1983-1986
 
 ## bdud 'joms 'jigs bral ye shes rdo rje :25 Dudjom Rinpoche
 
