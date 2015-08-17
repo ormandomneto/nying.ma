@@ -9,16 +9,20 @@
 │   ├── Dalai Lama 1 Gendun Drub
 │   ├── Dalai Lama 7 Kalzang Gyatso
 │   ├── Gyaltsab Je Darma Rinchen
+│   ├── Kadam Chojung
 │   └── Khedrub Je Gelek Pelzang
 ├── Kagyu
 │   ├── Bara Kagyu Chocho
 │   ├── Bara Kagyu Serteng
+│   ├── Drugpa Wangde
 │   ├── Geshe Chapu Gendun Rinchen
 │   ├── Karmapa 15 Kakyab Dorje
+│   ├── Padma Karpo
 │   ├── Rigzin Chokyi Drakpa
+│   ├── Shamar Kacho Wangpo
+│   ├── Tokden Shakya Shri
 │   └── Tsibri Parma
 ├── Nyingma
-│   ├── Adzom Drukpa Nyingthig Tsapod
 │   ├── Apam Tercho
 │   ├── Choklin Tersar
 │   ├── Dilgo Khyentse Rinpoche
@@ -38,7 +42,9 @@
 │   ├── Lhatsun Namka Jigme Dorje Nyingpo
 │   ├── Lhatsun Namka Jigme Rigdzin Sodrub
 │   ├── Lodro Gyaltsen
+│   ├── Longchen Nyingthig Triyik
 │   ├── Longchenpa Dzo Dun
+│   ├── Longchenpa Ngalso Korsum
 │   ├── Longchenpa Nyingthig Yabzhi
 │   ├── Longchenpa Sungthorbu
 │   ├── Longsal Khandro Nyingthig
@@ -47,14 +53,17 @@
 │   ├── Nam Cho
 │   ├── Nyang Ral Nyima Ozer Kagye
 │   ├── Nyingma Kama
+│   ├── Nyingthig Tsapod
 │   ├── Nyoshul Khenpo
 │   ├── Padma Lingpa Tercho
 │   ├── Rinchen Terdzo Chenmo
+│   ├── Rongton Padma Dechen Lingpa
 │   ├── Sangye Lingpa Lama Gondu
 │   ├── Sera Khandro
 │   ├── Sonam Gyaltsen
 │   ├── Tare Lhamo Tercho
 │   ├── Terdak Lingpa
+│   ├── Tersar Chodzo Chenmo
 │   ├── Thekpa Shenje
 │   ├── Tsasum Yidam Gondu
 │   ├── Tsele Natsok Rangdrol
@@ -65,6 +74,6 @@
 │   ├── Jamgon Kongtrul Gyacher Kadzo
 │   └── Jamyang Khyentse Wangpo
 ├── Sakya
-    ├── Lamdre Lobshe
-    ├── Lamdre Tsokshe
-    └── Sakya Kabum
+│   ├── Lamdre Lobshe
+│   ├── Lamdre Tsokshe
+│   └── Sakya Kabum

@@ -5,7 +5,7 @@ Here is Bibliographic Catalog Information Titles for TBRC works.
 
 # CANON
 
-## bka' 'gyur (sde dge par phud) :103
+## bka' 'gyur (sde dge par phud) :103 Kangyur Dege
 
 The Derge Parpu redaction of the Kangyur was edited with great care by Situ
 Panchen Chokyi Jungne (1699/1700-1774) and was carved through the efforts of Tenpa
@@ -19,7 +19,7 @@ his own edition of the canon. These additional texts are found in later printing
 Derge blocks.
 W22084   886-988
 
-## bstan 'gyur (sde dge) :213
+## bstan 'gyur (sde dge) :213 Tengyur Dege
 
 The Derge edition of the Tengyur, edited by Zhuchen Tsultrim Rinchen (1697-
 1774), was a masterpiece of scholarship. The Tengyur is a collection of basic texts
@@ -78,6 +78,74 @@ W21519          577-584
 
 # NYINGMA
 
+## gter gsar chos mdzod chen mo :388 Tersar Chodzo Chenmo
+
+Collection of newly discovered terma treasure revelations and related
+commentarial writings. The compilation includes sadhana practice texts,
+ritual initiations, and pith spiritual instructions from the Nyingma order.
+This prodigious treasury of new termas (gter gsar) was compiled and
+organized under the guidance of Lungtok Gyaltsen（1927－2011) by the
+team at Yarchen Orgyen Samten Ngagyur Petsok Khang from 2008 to 2013.
+This collection includes early terma texts that were not included in
+the Rinchen Terdzod, the magnificent Treasury of Precious Terma Revelations
+that was compiled by Jamgon Kongtrul (1813-1899) at the end of the 19th
+century, as well as newfound terma revelations from the 19th and early
+twentieth century, up through the 1950s.
+W2PD16917 I3PD472-I3PD859
+
+## klong chen snying thig gi khrid yig :1 Longchen Nyingthig Triyik
+
+An introduction to meditational practice according to the teachings
+of the Klongchen Nyingtik version of Jigme Lingpa written by Lode at
+the behest of Khenchen Lobzang Phuntsok, a disciple of Zhabkar Tsokdruk Rangdrol.
+W1KG22088 I1KG22134
+
+## rat+na gling pa'i gter chos :21 Ratna Lingpa Tercho
+
+Complete revelations of Terchen Ratna Lingpa (1403-1479).
+W3PD1003 I3PD1102-I3PD1122
+
+## rong ston pad+ma bde chen gling pa'i gter chos :3 Rongton Padma Dechen Lingpa
+
+Collection of treasure revelation texts by Rongton Padma Dechen Lingpa (1627/1663-1713).
+W3PD1001 I3PD1068-I3PD1070
+
+## rin chen gter mdzod chen mo :111 Rinchen Terdzo Chenmo
+
+Treasury of Precious Revelations. Collection of rediscovered terma and
+commentatorial works. Comprises sadhanas, empowerments, and instructions
+of the Nyingma order gathered and structured by Jamgon Kongtrul Lodro Taye (1813-1899).
+Reproduction of the Todlung Tsurphu (stod lung mtshur phu) redaction.
+Supplemental texts from the Palpung (dpal spungs) blockprint redaction
+and manuscripts from other monasteries in the Kham region. Enlarged anthology,
+compiled at the order of Dilgo Khyentse Rinpoche.
+W20578 0001-0111
+
+## rdo rje bde chen gling pa gter chos :11 Dorje Dechen Lingpa Tercho
+
+Collected works of Dorje Dechen Lingpa (1857-1928).
+W00EGS1016625 I00EGS1016809-I00EGS1016819
+
+## khams dkar mdzes rdzong khongs gzhi chen mkhar dmar gsangs sngags bstan rgyas gling du bzhugs pa'i dpe dkon :69 Zhichen Tengye Ling
+
+Collection of rare Texts from Zhichen Monastery in Kardze Couty.
+W3PD889 I3PD1129-I3PD1197
+
+## sgo 'dzin gter ston ye shes 'byung gnas kyi gter chos :8 Yeshes Jungnas Tercho
+
+Collection of treasure revelation texts by Godzin Terston Yeshes Jungnas(1875-?).
+W3PD991 I3PD1072-I3PD1079
+
+## nges don rgya mtsho'i gter chos :2 Gedon Gyatso Tercho
+
+Collection of treasure revelation texts by Sangprul Ngesdon Gyatsho (1899-1958).
+W3PD996 I3PD1421-I3PD1422
+
+## mthu stobs gling pa'i gter chos :10 Tutop Lingpa Tercho
+
+Collection of treasure revelation texts by the Nyingma master Tutop Lingpa (1858-1914).
+W3PD989 I3PD1081-I3PD1090
+
 ## rnying ma bka' ma rgyas pa :58
 
 The collection of Kama or commentatorial literature descending in a direct
@@ -97,7 +165,7 @@ The Kagye or Eight Pronouncements represent organized presentations of the
 Nyingma teachings of the Mahayoga tradition. The fullest of these was revealed by the
 great Ngadag Nyaral Nyima Ozer (1136-1204). This set represents the manuscript
 tradition found in Bhutan and is the exemplar preserved at Tsamdrag Monastery.
-W22247  2042-2054
+W22247      2042-2054
 
 ## bka' brgyad gsang ba yongs rdzogs :4
 
@@ -146,7 +214,7 @@ Scanned with the generous support of Master Tam Shek-Wing of the
 Vajrayana Buddhist Association.
 W12827      2061-2073
 
-### ngal gso skor gsum sogs :3
+### ngal gso skor gsum sogs :3 Longchenpa Ngalso Korsum
 
 Trilogy of Natural Ease (ngalso korsum) and Trilogy of Natural
 Freedom (rangdrol korsum) are Dzogchen instructions by Longchen
@@ -160,7 +228,8 @@ W23760      2628-2630
 Miscellaneous Writings by Longchen Rabjampa Drime Ozer (1308-1364).
 Reprinted from the Degge woodblocks. Scanned with the generous support of
 Master Tam Shek-Wing of the Vajrayana Buddhist Association.
-W23504      2074-2075
+W23504 2074-2075
+W23555 2130-2131
 
 ## rdzogs pa chen po dgongs pa zang thal dang ka dag rang byung rang shar :5
 
@@ -1208,7 +1277,7 @@ with Tangtong Gyalpo (1361-1485); scanned with the support
 of Barry Keil.
 W23918      3513-3515
 
-# SHIJE and CHOD
+# ZHIJE and CHOD
 
 ## thang stong rgyal po'i ma gcig gsang gcod :4
 

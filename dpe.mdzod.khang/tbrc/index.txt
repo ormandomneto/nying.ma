@@ -1,22 +1,32 @@
-├── CANON (20G)
-│   ├── bka' 'gyur (sde dge par phud) :103
-│   ├── bstan 'gyur (sde dge) :213
+├── CANON
+│   ├── bka' 'gyur (sde dge par phud) :103 Kangyur Dege
+│   ├── bstan 'gyur (sde dge) :213 Tengyur Dege
 │   ├── rnying ma rgyud 'bum (mtshams brag) :46
 │   ├── bka' 'gyur (stog palace bris ma) :109
 │   ├── rnying ma rgyud 'bum (gting skyes dgon pa byang bris ma) :36
 │   ├── rnying ma rgyud 'bum gyi kha skong (mtshams brag dgon pa'i bris ma) :6
 │   ├── bai ro'i rgyud 'bum :8
-├── NYINGMA (17G)
+├── NYINGMA
+│   ├── gter gsar chos mdzod chen mo :388 Tersar Chodzo Chenmo
+│   ├── klong chen snying thig gi khrid yig :1 Longchen Nyingthig Triyik
+│   ├── rat+na gling pa'i gter chos :21 Ratna Lingpa Tercho
+│   ├── rong ston pad+ma bde chen gling pa'i gter chos :3 Rongton Padma Dechen Lingpa
+│   ├── rin chen gter mdzod chen mo :111 Rinchen Terdzo Chenmo
+│   ├── rdo rje bde chen gling pa gter chos :11 Dorje Dechen Lingpa Tercho
+│   ├── khams dkar mdzes rdzong khongs gzhi chen mkhar dmar gsangs sngags bstan rgyas gling du bzhugs pa'i dpe dkon :69 Zhichen Tengye Ling
+│   ├── sgo 'dzin gter ston ye shes 'byung gnas kyi gter chos :8 Yeshes Jungnas Tercho
+│   ├── nges don rgya mtsho'i gter chos :2 Gedon Gyatso Tercho
+│   ├── mthu stobs gling pa'i gter chos :10 Tutop Lingpa Tercho
 │   ├── rnying ma bka' ma rgyas pa :58
 │   ├── bka' brgyad Bde gshegs 'dus pa :13
 │   ├── bka' brgyad gsang ba yongs rdzogs :4
 │   ├── bla ma dgongs 'dus :18 Sangye Lingpa Lama Gondu
 │   ├── bla ma dgongs pa 'dus pa las ma 'ongs lung bstan bka' rgya ma'i skor :2
 │   ├── klong chen pa'i gsung skor
-│       ├── mdzod bdun :7 Longchenpa Dzo Dun
-│       ├── snying thig ya bzhi :13 Longchenpa Nyingthig Yabzhi
-│       ├── ngal gso skor gsum sogs :3
-│       ├── klong chen pa'i gsung thor bu :2 Longchenpa Sungthorbu
+│   │   ├── mdzod bdun :7 Longchenpa Dzo Dun
+│   │   ├── snying thig ya bzhi :13 Longchenpa Nyingthig Yabzhi
+│   │   ├── ngal gso skor gsum sogs :3 Longchenpa Ngalso Korsum
+│   │   ├── klong chen pa'i gsung thor bu :2 Longchenpa Sungthorbu
 │   ├── rdzogs pa chen po dgongs pa zang thal dang ka dag rang byung rang shar :5
 │   ├── padma gling pa'i chos skor :21 Padma Lingpa Tercho
 │   ├── 'jigs med gling pa'i gsung 'bum :14 Jigme Lingpa Sungbum
@@ -56,8 +66,8 @@
 │   ├── mkhan po kun dga' dpal ldan :2
 │   ├── se ra mkha' 'gro kun bzang bde skyong dbang mo :4 Sera Khandro
 │   ├── bdud 'joms 'jigs bral ye shes rdo rje :25 Dudjom Rinpoche
-│   ├── dil mgo mkhyen brtse rab gsal zla ba :25 Dilgo Khyentse Rinpoche
-├── RIME (1.5G)
+│   ├── dil mgo mkhyen brtse rab gsal zla ba :25
+├── RIME
 │   ├── gzhung chen bcu gsum :7
 │   ├── gzhung chen bcu gsum gyi 'chad thabs :1
 │   ├── 'jam dbyangs mkhyen brtse'i dbang po'i gsung 'bum :24
@@ -66,7 +76,8 @@
 │   ├── gdams ngag mdzod :18
 │   ├── theg pa chen po rgyud bla ma'i bstan bcos snying po'i :1
 │   ├── dpal dgyes pa rdo rje'i rgyud kyi rgyal po brtag pa gnyis pa'i :1
-├── GELUG (1.3G)
+├── GELUG
+│   ├── bka' gdams chos 'byung gsal ba'i sgron me :2 Kadam Chojung
 │   ├── blo sbyong glegs bam :1
 │   ├── lho brag grub chen nam mkha' rgyal mtshan :1
 │   ├── tsong kha pa blo bzang grags pa (bkras lhun par rnying) :27
@@ -105,7 +116,7 @@
 │   ├── dalai Lama 7 blo bzang bskal bzang rgya mtsho'i gsung 'bum :13
 │   ├── 'jam dbyangs bzhad pa'i rdo rje'i gsung 'bum :15
 │   ├── rong chen kirti blo bzang 'phrin las kyi gsung 'bum :12
-├── SAKYA (444M)
+├── SAKYA
 │   ├── sa skya bka' 'bum + kha skong :18
 │   ├── ngor chen gyi bka' 'bum :4
 │   ├── go rams pa'i gsung 'bum + kha skong :17
@@ -116,7 +127,8 @@
 │   ├── lam 'bras slob bshad :21
 │   ├── lam 'bras tshogs bshad :6
 │   ├── bu ston rin chen grub dang sgra tshad pa rin chen rnam rgyal :28
-├── KAGYU (3G)
+├── KAGYU
+│   ├── dpal 'brug pa'i lugs kyi dbang chog 'dod rgu'i bang mdzod :6
 │   ├── dkar brgyud gser phreng :3
 │   ├── rwa lung gser 'phreng :4
 │   ├── 'ba' ra dkar brgyud gser 'phreng :4 Bara Kagyu Serteng
@@ -154,19 +166,20 @@
 │   ├── sgam po pa'i gsung 'bum :4
 │   ├── phag mo gru pa'i gsung 'bum :9
 │   ├── bla ma zhang gi bka' 'bum :5
-│   ├── kun mkhyen Padma dkar po'i gsung 'bum :24
+│   ├── kun mkhyen padma dkar po'i gsung 'bum :24
 │   ├── rig 'dzin chos kyi grags pa'i gsung 'bum :15
 │   ├── karma pa mkha' khyab rdo rje'i gsung 'bum :10
 │   ├── mkhas dbang sangs rgyas rdo rje :8
+│   ├── shAkya shrI :1 Shakya Shri
 │   ├── bka' brgyud sngags mdzod :8
-├── SHANGPA (0)
+├── SHANGPA
 │   ├── shangs pa bka' brgyud rnam thar dang chos skor :2
 │   ├── sans pa bka' brgyud pa'i khrid skor than rgyal lugs :1
 │   ├── thang stong rgyal po'i bka' 'bum :3
-├── SHIJE and CHOD (0)
+├── ZHIJE and CHOD
 │   ├── thang stong rgyal po'i ma gcig gsang gcod :4
 │   ├── phyag rgya chen po brda'i skor gsum :1
-├── JONANG (0)
+├── JONANG
 │   ├── kun mkhyen dol po pa shes rab rgyal mtshan :8
 │   ├── rje btsun ta ra na tha'i gsung 'bum ('dzam thang) :23
 │   ├── jo nang rje btsun tA ra nA tha :17
