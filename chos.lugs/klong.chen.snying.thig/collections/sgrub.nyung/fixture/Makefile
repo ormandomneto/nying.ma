@@ -1,2 +1,2 @@
 default:
-	xelatex --interaction nonstopmode fixture.tex
+	xelatex --interaction nonstopmode addendum.tex
