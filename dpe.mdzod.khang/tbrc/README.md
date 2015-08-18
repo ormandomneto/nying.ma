@@ -86,12 +86,14 @@ W19665 I1CZ2716
 
 ## nyag bla rang rig rdo rje'i gter chos :42 Ranrig Dorje Tercho
 
-Collected Treasure Revelations by a modern visionary from Nyarong, Rangrik Dorje (1847-1903).
+Collected Treasure Revelations by a modern visionary
+from Nyarong, Rangrik Dorje (1847-1903).
 W1PD289 I1PD291-I1PD332
 
 ## gser rta mkhan po 'jigs med phun tshogs kyi gsung 'bum :4 Jigme Puntsok Jungne
 
-Collected Works by prominent Nyingma practitioner and Dzogchen master Khenpo Jigme Puntsok (1933-2004) of Lerung Gar Monastery.
+Collected Works by prominent Nyingma practitioner and
+Dzogchen master Khenpo Jigme Puntsok (1933-2004) of Lerung Gar Monastery.
 W00KG03976 I00KG03978-I00KG03980
 W1PD95698 I1PD95700-I1PD95703
 
