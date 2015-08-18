@@ -7,6 +7,13 @@
 │   ├── rnying ma rgyud 'bum gyi kha skong (mtshams brag dgon pa'i bris ma) :6
 │   ├── bai ro'i rgyud 'bum :8
 ├── NYINGMA
+│   ├── a 'dzom 'gro 'dul dpa' bo rdo rje'i gsung 'bum :10 Adzom Drukpa
+│   ├── nyag bla rang rig rdo rje'i gter chos :42 Ranrig Dorje Tercho
+│   ├── gser rta mkhan po 'jigs med phun tshogs kyi gsung 'bum :4 Jigme Puntsok Jungne
+│   ├── od gsal rdo rje gsang mdzod :1 Osal Dorje Sandzo
+│   ├── dge ba'i bshes gnyen chen mo rdo rje dgra 'dul gyi gsung pad+ma dkar po'i do shal :1 Dorje Dradul
+│   ├── las rab gling pa'i gter chos :17 Sogyal Lerab Lingpa
+│   ├── nyag bla pad+ma bdud 'dul gyi gter chos skor :5
 │   ├── gter gsar chos mdzod chen mo :388 Tersar Chodzo Chenmo
 │   ├── klong chen snying thig gi khrid yig :1 Longchen Nyingthig Triyik
 │   ├── rat+na gling pa'i gter chos :21 Ratna Lingpa Tercho
@@ -16,6 +23,8 @@
 │   ├── khams dkar mdzes rdzong khongs gzhi chen mkhar dmar gsangs sngags bstan rgyas gling du bzhugs pa'i dpe dkon :69 Zhichen Tengye Ling
 │   ├── sgo 'dzin gter ston ye shes 'byung gnas kyi gter chos :8 Yeshes Jungnas Tercho
 │   ├── nges don rgya mtsho'i gter chos :2 Gedon Gyatso Tercho
+│   ├── se ra mkha' 'gro kun bzang bde skyong dbang mo :4 Sera Khandro Tercho
+│   ├── se ra mkha' 'gro'i gsung 'bum :6 Sera Khandro Sunbum
 │   ├── mthu stobs gling pa'i gter chos :10 Tutop Lingpa Tercho
 │   ├── rnying ma bka' ma rgyas pa :58
 │   ├── bka' brgyad Bde gshegs 'dus pa :13
@@ -38,7 +47,7 @@
 │   ├── mchog 'gyur gling pa'i gter gsar :39 Choklin Tersar
 │   ├── mi pham rgya mtsho'i gsung 'bum :27 Mipham Sungbum
 │   ├── lha btsun nam mkha' 'jigs med :4 Lhatsun Namka Jigme
-│   ├── rig 'dzin srog sgrub: 5 Lhatsun Namka Jigme Rigdzin Sodrub
+│   ├── rig 'dzin srog sgrub :5 Lhatsun Namka Jigme Rigdzin Sodrub
 │   ├── rdo rje snying po sprin gyi thol glu :2 Lhatsun Namka Jigm Dorje Nyingpo
 │   ├── rtse le sna tshogs rang grol :8 Tsele Natsog Rangdrol
 │   ├── spo bo gter chen bdud 'dul rdo rje :12 Dudul Dorje Zater
@@ -64,7 +73,6 @@
 │   ├── glag bla bsod nams chos grub :5
 │   ├── a pam gter chen dpa' bo chos dbyings rdo rje :4 Apam Tercho
 │   ├── mkhan po kun dga' dpal ldan :2
-│   ├── se ra mkha' 'gro kun bzang bde skyong dbang mo :4 Sera Khandro
 │   ├── bdud 'joms 'jigs bral ye shes rdo rje :25 Dudjom Rinpoche
 │   ├── dil mgo mkhyen brtse rab gsal zla ba :25
 ├── RIME
