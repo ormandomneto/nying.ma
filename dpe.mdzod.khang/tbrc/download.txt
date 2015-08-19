@@ -9,7 +9,6 @@ http://tbrc.org/#!rid=W3PD890       (c) Seru Gabma Tshang
 http://tbrc.org/#!rid=W3PD894       (c) Seru Gongma Tshang
 http://tbrc.org/#!rid=W3PD991        +  Yeshes Jungnas Tercho
 http://tbrc.org/#!rid=W3PD996        +  Gedon Gyatso Tercho
-http://tbrc.org/#!rid=W3PD989        +  Tutop Lingpa Tercho
 http://tbrc.org/#!rid=W3PD1003       +  Ratna Lingpa
 http://tbrc.org/#!rid=W3PD889        -  Zhichen Tengye Ling
 http://tbrc.org/#!rid=W3PD1002       -  Jamyang Khyentse Wangpo
@@ -24,3 +23,8 @@ http://tbrc.org/#!rid=W1PD108254     +  Sera Khandro Sunbum
 http://tbrc.org/#!rid=W1PD289        +  Ranrig Dorje Tercho
 http://tbrc.org/#!rid=W00KG03976     +  Jigme Puntsok Jungne
 http://tbrc.org/#!rid=W1PD95698      +  Jigme Puntsok Jungne
+http://tbrc.org/#!rid=W3PD989        +  Tutop Lingpa Tercho
+http://tbrc.org/#!rid=W1KG16650      -  Tutop Lingpa Tercho
+http://tbrc.org/#!rid=W29031         -  Drodul Garwang Lingpa
+http://tbrc.org/#!rid=W1PD181180     -  Orgyen Thegchog Lingpa
+

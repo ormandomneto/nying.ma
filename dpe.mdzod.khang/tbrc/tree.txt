@@ -1,92 +1,7 @@
 ├── Canon
-│   ├── Bairo Gyubum
-│   ├── Kangyur Tok Palace
 │   ├── Kangyur Dege
+│   ├── Kangyur Tok Palace
 │   └── Tengyur Dege
-├── Nyingma
-│   ├── Canon
-│   │   ├── Rinchen Terdzo Chenmo
-│   │   ├── Tersar Chodzo Chenmo
-│   │   ├── Longchenpa Nyingthig Yabzhi
-│   │   ├── Nyingma Kama
-│   │   ├── Nyingma Gyubum Tingkye
-│   │   └── Nyingma Gyubum Tsamdrak
-│   ├── Kama
-│   │   ├── Longchenpa Dzo Dun
-│   │   ├── Longchenpa Ngalso Korsum
-│   │   ├── Longchenpa Sungthorbu
-│   │   ├── Jigme Lingpa Sungbum
-│   │   ├── Dza Patrul Rinpoche
-│   │   ├── Mipham Sungbum
-│   │   ├── Contemporary
-│   │   │   ├── Dudjom Rinpoche
-│   ├── Terma
-│   │   ├── Nga Ter
-│   │   │   ├── Gongpa Zangtal
-│   │   ├── Lingpa Chenpo
-│   │   │   ├── Dorje Dechen Lingpa Tercho
-│   │   │   ├── Ratna Lingpa Tercho
-│   │   │   ├── Choklin Tersar
-│   │   │   ├── Sangye Lingpa Lama Gondu
-│   │   │   ├── Padma Lingpa Tercho
-│   │   ├── Nying Ter
-│   │   │   ├── Tsasum Yidam Gondu
-│   │   │   ├── Terdak Lingpa
-│   │   ├── Gong Ter
-│   │   │   ├── Nam Cho
-│   │   │   ├── Lhatsun Namka Jigme
-│   │   │   ├── Lhatsun Namka Jigme Dorje Nyingpo
-│   │   │   ├── Lhatsun Namka Jigme Rigdzin Sodrub
-│   │   └── Rime
-│   │       ├── Dzongsar Khyentse Jamyang Chokyi Lodro
-│   │       ├── Jamgon Kongtrul Dam Ngag Dzo
-│   │       ├── Jamgon Kongtrul Gyacher Kadzo
-│   │       ├── Dilgo Khyentse Rinpoche
-│   │       └── Jamyang Khyentse Wangpo
-│   ├── Kathok
-│   │   ├── Longchen Nyingthig
-│   │   │   ├── Nyingthig Tsapod
-│   │   │   ├── Dodrubchen 3 Jigme Tenpai Nyima
-│   │   │   └── Longchen Nyingthig Triyik
-│   │   ├── Ter Nying
-│   │   │   ├── Jatson Podrug
-│   │   │   ├── Longsal Nyingpo
-│   │   │   ├── Dudul Dorje Zater
-│   │   │   ├── Rongton Padma Dechen Lingpa
-│   │   │   ├── Longsal Khandro Nyingthig
-│   │   ├── Pandrub
-│   │   │   ├── Kathok Rigzin Tsewang Norbu
-│   │   │   ├── Lodro Gyaltsen
-│   │   │   ├── Sonam Gyaltsen
-│   │   │   ├── Nyoshul Khenpo
-│   │   ├── Nyarong Tersar
-│   │   │   ├── Nyakla Pema Dudul
-│   │   │   ├── Dorje Lingpa Tercho
-│   │   │   ├── Ranrig Dorje Tercho
-│   │   │   ├── Adzom Drukpa
-│   │   │   ├── Sogyal Lerab Lingpa
-│   │   │   ├── Jigme Puntsok Jungne
-│   │   ├── Golok Tersar
-│   │   │   ├── Dudjom Lingpa Tercho
-│   │   │   ├── Sera Khandro
-│   │   │   ├── Sera Khandro Sunbum
-│   │   │   ├── Apam Tercho
-│   │   │   ├── Dorje Dradul
-│   │   │   ├── Tare Lhamo Tercho
-│   │   │   ├── Osal Dorje Sandzo
-
-------------------------------------------------- Unsorted
-│   │   │   ├── Dzogpachenpo Yangti Nagpo
-│   │   │   ├── Gedon Gyatso Tercho
-│   │   │   ├── Gyalse Shenpen Thaye
-│   │   │   ├── Nyang Ral Nyima Ozer Kagye
-│   │   │   ├── Thekpa Shenje
-│   │   │   ├── Tsele Natsok Rangdrol
-│   │   │   ├── Tutop Lingpa Tercho
-│   │   │   ├── Yeshes Jungnas Tercho
-│   │   │   └── Yonten Rinpoche Dzo
--------------------------------------------------
-
 ├── Gelug
 │   ├── Dalai Lama 1 Gendun Drub
 │   ├── Dalai Lama 7 Kalzang Gyatso
@@ -104,7 +19,87 @@
 │   ├── Shamar Kacho Wangpo
 │   ├── Tokden Shakya Shri
 │   └── Tsibri Parma
+├── Nyingma
+│   ├── Canon
+│   │   ├── Bairo Gyubum
+│   │   ├── Nyingma Gyubum Tingkye
+│   │   ├── Nyingma Gyubum Tsamdrak
+│   │   ├── Rinchen Terdzo Chenmo
+│   │   ├── Tersar Chodzo Chenmo
+│   │   ├── Longchenpa Nyingthig Yabzhi
+│   │   └── Nyingma Kama
+│   ├── Kama
+│   │   ├── Dodrubchen 3 Jigme Tenpai Nyima
+│   │   ├── Dudjom Rinpoche
+│   │   ├── Dza Patrul Rinpoche
+│   │   ├── Gyalse Shenpen Thaye
+│   │   ├── Jigme Lingpa Sungbum
+│   │   ├── Longchenpa Dzo Dun
+│   │   ├── Longchenpa Ngalso Korsum
+│   │   ├── Longchenpa Sungthorbu
+│   │   ├── Mipham Sungbum
+│   │   ├── Tsele Natsok Rangdrol
+│   │   └── Yonten Rinpoche Dzo
+│   ├── Terma
+│   │   ├── Nga Ter
+│   │   │   ├── Gongpa Zangtal
+│   │   │   └── Nyang Ral Nyima Ozer Kagye
+│   │   ├── Lingpa Chenpo
+│   │   │   ├── Dorje Lingpa Tercho
+│   │   │   ├── Padma Lingpa Tercho
+│   │   │   ├── Ratna Lingpa Tercho
+│   │   │   └── Sangye Lingpa Lama Gondu
+│   │   ├── Nying Ter
+│   │   │   ├── Terdak Lingpa
+│   │   │   └── Tsasum Yidam Gondu
+│   │   ├── Gong Ter
+│   │   │   ├── Lhatsun Namka Jigme
+│   │   │   ├── Lhatsun Namka Jigme Dorje Nyingpo
+│   │   │   ├── Lhatsun Namka Jigme Rigdzin Sodrub
+│   │   │   └── Nam Cho
+│   │   └── Rime
+│   │       ├── Dzongsar Khyentse Jamyang Chokyi Lodro
+│   │       ├── Jamgon Kongtrul Dam Ngag Dzo
+│   │       ├── Jamgon Kongtrul Gyacher Kadzo
+│   │       ├── Jamyang Khyentse Wangpo
+│   │       ├── Dilgo Khyentse Rinpoche
+│   │       └── Choklin Tersar
+│   └── Kathok
+│       ├── Longchen Nyingthig
+│       │   ├── Longchen Nyingthig Triyik
+│       │   └── Nyingthig Tsapod
+│       ├── Ter Nying
+│       │   ├── Jatson Podrug
+│       │   ├── Rongton Padma Dechen Lingpa
+│       │   ├── Longsal Khandro Nyingthig
+│       │   ├── Longsal Nyingpo
+│       │   └── Dudul Dorje Zater
+│       ├── Pandrub
+│       │   ├── Kathok Rigzin Tsewang Norbu
+│       │   ├── Thekpa Shenje
+│       │   ├── Lodro Gyaltsen
+│       │   ├── Sonam Gyaltsen
+│       │   └── Nyoshul Khenpo
+│       ├── Nyengyud Tri Chenpo
+│       │   └── Dzogpachenpo Yangti Nagpo
+│       ├── Nyarong Tersar
+│       │   ├── Osal Dorje Sandzo
+│       │   ├── Yeshes Jungnas Tercho
+│       │   ├── Tutop Lingpa Tercho
+│       │   ├── Adzom Drukpa
+│       │   ├── Jigme Puntsok Jungne
+│       │   ├── Ranrig Dorje Tercho
+│       │   ├── Sogyal Lerab Lingpa
+│       │   ├── Dorje Dechen Lingpa Tercho
+│       │   └── Nyakla Pema Dudul
+│       └── Golok Tersar
+│           ├── Dudjom Lingpa Tercho
+│           ├── Sera Khandro
+│           ├── Sera Khandro Sunbum
+│           ├── Dorje Dradul
+│           ├── Apam Tercho
+│           └── Tare Lhamo Tercho
 └── Sakya
-    ├── Lamdre Lobshe
-    ├── Lamdre Tsokshe
-    └── Sakya Kabum
+    ├── Lamdre Lobshe
+    ├── Lamdre Tsokshe
+    └── Sakya Kabum

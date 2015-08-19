@@ -113,6 +113,11 @@ W2DB19541 I1PD34857
 Revelations by terton Lerab Lingpa otherwise known as, Tulku Sogyal (1856-1926) of Nyagrong.
 W21810 1940-1954,2041
 
+## 'gro 'dul gar dbang gling pa gter chos :8 Drodul Garwang Lingpa
+
+Revelations by Drodul Garwang Lingpa (1856-1926).
+W29031 5006-5013
+
 ## nyag bla pad+ma bdud 'dul gyi gter chos skor :5
 
 Revelations by the Nyingma terton Nyarong Pema Dudul (1816-1872).
@@ -201,6 +206,7 @@ W1PD108254 I1PD108256-I1PD108261
 
 Collection of treasure revelation texts by the Nyingma master Tutop Lingpa (1858-1914).
 W3PD989 I3PD1081-I3PD1090
+W1KG16650 I2PD15103-I2PD15112
 
 ## rnying ma bka' ma rgyas pa :58
 
