@@ -488,7 +488,7 @@ W23176          395-398
 Dorje Togme (1746-1796/1797) was one of the terton from the
 southern border lands responsible for the opening up of the
 Hidden Land of Pemako.
-21854           2055-2060
+W21854           2055-2060
 
 ## yon tan rin po che'i mdzod kyi dka' gnad rdo rje'i rgya mdzud 'gro byed legs bsad gser gyi thur ma :1 Yonten Rinpoche Dzo
 
