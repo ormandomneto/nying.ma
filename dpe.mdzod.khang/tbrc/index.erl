@@ -535,7 +535,7 @@
 
         { pub,  '', 1, "theg pa chen po rgyud bla ma'i bstan bcos snying po'i"
                         "don mngon sum lam gyi bshad pa srol dang sbyar ba'i"
-                        "rnam par 'grel ba phyir mi ldog pa sengge'i nga ro", '/',
+                        "rnam par 'grel ba phyir mi ldog pa seng ge'i nga ro", '/',
                 "Commentary on the Uttaratantra or Ratnagotravibhaga by"
                 "Jamgon Kontrul Lotro Taye (1813-1893)",
                 [ { ver, 'W21961', "1715" } ] },
@@ -761,7 +761,7 @@
                 "Collected writings of a Gelug master, the Second Panchen Lobzang Yeshe (1662-1737)",
                 [ { ver, 'W01174', "1794, 1793, 1792, 1791" } ] },
 
-        { pub,  '', 5, "(gsung 'bum) of blo bzan chos kyi rgyal mtshan", '/',
+        { pub,  '', 5, "(gsung 'bum) blo bzan chos kyi rgyal mtshan", '/',
                 "Collected writings of the 1st Panchen Lama Lobzang Chokyi Gyaltsen (1570-1662),"
                 "famed master of the Tashilhunpo tradition of the Gelug school",
                 [ { ver, 'W23430', "1637, 1638, 1639, 1640, 2765" } ] },
@@ -1057,7 +1057,7 @@
                 "of the Chogling Tersar.",
                 [ { ver, 'W22139', "787-790" } ] },
 
-        { pub,  '', 1, "thugs rje chen po'i dmar khrid phyag rdzogs zun 'jug gi don'dus go bder bkod pa rgan mo mdzub tshugs", '/',
+        { pub,  '', 1, "thugs rje chen po'i dmar khrid phyag rdzogs zun 'jug gi don 'dus go bder bkod pa rgan mo mdzub tshugs", '/',
                 "An introduction on the practice of avalokitesvara,"
                 "according to a fusion of rdzogs-chen and phyag chen"
                 "Introduction to the practice of a form of Avalokitesvara"
