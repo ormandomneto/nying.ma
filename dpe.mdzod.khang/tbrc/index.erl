@@ -475,6 +475,15 @@
                 "cycles of Peyu Monastery.",
                 [ { ver, 'W21578', "1662-1674" } ] },
 
+        { pub,  'Khenpo Zhenga Chusum', 7, "gzhung chen bcu gsum", '/',
+                "These thirteen basic sutras and shastras were widely regarded as essential"
+                "for the proper understanding of exoteric Buddhism. The annotations are the"
+                "work of Khenpo Shenga or Shenpen Chokyi Nangwa (1871-1927) who vowed to"
+                "avoid the various differing Tibetan interpretations that had resulted"
+                "in the sectarianism in Tibet. These annotated editions became known as"
+                "the Dzongsar Yigcha or syllabus and spread throughout all of Tibet.",
+                [ { ver, 'W23198', "801-807" } ] },
+
         { pub,  'Dudjom Rinpoche', 25, "bdud 'joms 'jigs bral ye shes rdo rje", '/',
                 "Collected works of a extraordinary savant of the 20th century,"
                 "Dudjom Jigdral Yeshe Dorje (1904-1988).",
@@ -483,7 +492,7 @@
 ]},
 { cat, "RIME", "", '/', [
 
-        { pub,  'Choklin Tersar', 39, "mchog 'gyur gling pa'i gter gsar", '/',
+        { pub,  'Chokgyur Lingpa', 39, "mchog 'gyur gling pa'i gter gsar", '/',
                 "Chogyur Dechen Lingpa (1829-1870) was one of a Nyingma terton whose"
                 "revelations spread widely throughout Tibet and remain today among the most important"
                 "teachings of Tibet. He is regarded as one of the three pillars of the Rime or non-sectarian"
@@ -495,14 +504,6 @@
                 "Dilgo Kyentse Rabsal Dawa (1910-1991).",
                 [ { ver, 'W21809', "1831-1855" } ] },
 
-        { pub,  'Dzongsar Yigcha', 7, "gzhung chen bcu gsum", '/',
-                "These thirteen basic sutras and shastras were widely regarded as essential"
-                "for the proper understanding of exoteric Buddhism. The annotations are the"
-                "work of Khenpo Shenga or Shenpen Chokyi Nangwa (1871-1927) who vowed to"
-                "avoid the various differing Tibetan interpretations that had resulted"
-                "in the sectarianism in Tibet. These annotated editions became known as"
-                "the Dzongsar Yigcha or syllabus and spread throughout all of Tibet.",
-                [ { ver, 'W23198', "801-807" } ] },
 
         { pub,  'Dzongsar Yigcha Chatab', 1, "gzhung chen bcu gsum gyi 'chad thabs", '/',
                 "Surmang Kenpo Pema Namgyal wrote this teacher's manual to guide"
@@ -514,7 +515,8 @@
                 "Kyentse Wangpo (1820-1892), another of the three pillars of the Rime tradition. His"
                 "collected works reflect contain many of his notes and contain insights into his thinking on"
                 "ecumenical approach.",
-                [ { ver, 'W21807', "0506-0529" } ] },
+                [ { ver, 'W21807', "0506-0529" },
+                  { ver, 'W3PD1002', "I3PD1037-I3PD1061" } ] },
 
         { pub,  'Dzongsar Kyentse Jamyang Chokyi Lodro', 10, "'jam dbyangs mkhyen brtse chos kyi blo gros", '/',
                 "One of the greatest teachers of the 20th century was Dzongsar Kyentse"
