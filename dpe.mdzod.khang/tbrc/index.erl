@@ -160,7 +160,7 @@
                 "Collection of treasure revelation texts by Godzin Terston Yeshes Jungnas(1875-?).",
                 [ { ver, 'W3PD991', "I3PD1072-I3PD1079" } ] },
 
-        { pub,  'Gedon Gyatso Tercho', 2, "nges don rgya mtsho'i gter chos", '/',
+        { pub,  'Ngedon Gyatso Tercho', 2, "nges don rgya mtsho'i gter chos", '/',
                 "Collection of treasure revelation texts by Sangprul Ngesdon Gyatsho (1899-1958).",
                 [ { ver, 'W3PD996', "I3PD1421-I3PD1422" } ] },
 
