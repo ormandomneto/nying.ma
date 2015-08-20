@@ -24,7 +24,7 @@ http://tbrc.org/#!rid=W1PD289        +  Ranrig Dorje Tercho
 http://tbrc.org/#!rid=W00KG03976     +  Jigme Puntsok Jungne
 http://tbrc.org/#!rid=W1PD95698      +  Jigme Puntsok Jungne
 http://tbrc.org/#!rid=W3PD989        +  Tutop Lingpa Tercho
-http://tbrc.org/#!rid=W1KG16650      -  Tutop Lingpa Tercho
+http://tbrc.org/#!rid=W1KG16650      +  Tutop Lingpa Tercho
 http://tbrc.org/#!rid=W29031         -  Drodul Garwang Lingpa
 http://tbrc.org/#!rid=W1PD181180     -  Orgyen Thegchog Lingpa
 

@@ -5,6 +5,14 @@ Here is Bibliographic Catalog Information Titles for TBRC works.
 
 # CANON
 
+## rnying ma rgyud bcu bdun :2 Gyud Chudun
+
+A reproduction of an ancient manuscript from spiti of a collection of rnying
+ma pa tantras of the man ngag sde class of the atiyoga (rdzogs chen).
+W21520 I1KG1235-I1KG1236
+W27491 4447-4448
+
+
 ## bka' 'gyur (sde dge par phud) :103 Kangyur Dege
 
 The Derge Parpu redaction of the Kangyur was edited with great care by Situ
@@ -221,7 +229,7 @@ exist among the Tibetan Diaspora first in 13 volumes and finally in this magnifi
 volume collection.
 W19229      448-505
 
-## bka' brgyad Bde gshegs 'dus pa :13
+## bka' brgyad bde gshegs 'dus pa :13
 
 The Kagye or Eight Pronouncements represent organized presentations of the
 Nyingma teachings of the Mahayoga tradition. The fullest of these was revealed by the
