@@ -6,3 +6,5 @@ logs
 .#*
 *.beam
 /deps/*
+sgra.par
+ry-dic2003.txt
