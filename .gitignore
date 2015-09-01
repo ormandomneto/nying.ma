@@ -8,3 +8,5 @@ logs
 /deps/*
 sgra.par
 ry-dic2003.txt
+*.mp4
+*.mp3
