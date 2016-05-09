@@ -32,15 +32,15 @@
             <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
                 <tspan x="1543.448" y="772">1</tspan>
             </text>
-            <text id="ན་མོ༔" sketch:type="MSTextLayer" font-family="Kailasa" font-size="34" font-weight="normal" fill="#000000">
-                <tspan x="104.88145" y="183.264524">ན་མོ༔</tspan>
-                <tspan x="104.88145" y="227.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
-                <tspan x="104.88145" y="271.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
+            <text id="ན་མོ༔" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
+                <tspan x="104.88145" y="184.264524">ན་མོ༔</tspan>
+                <tspan x="104.88145" y="230.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
+                <tspan x="104.88145" y="276.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
             </text>
-            <text id="མདུན་འཁར་འཇའ་འོད་གུར" sketch:type="MSTextLayer" font-family="Kailasa" font-size="34" font-weight="normal" fill="#000000">
-                <tspan x="104.88145" y="550.137206">མདུན་འཁར་འཇའ་འོད་གུར་ཁྱིམ་པད་ཟླའི་སྟེང་༔</tspan>
-                <tspan x="104.88145" y="594.137206">རྩ་བའི་བླ་མ་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང༔</tspan>
-                <tspan x="104.88145" y="638.137206">རྩ་གསུམ་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་ཀྱིས་བསྐོར༔ </tspan>
+            <text id="མདུན་འཁར་འཇའ་འོད་གུར" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
+                <tspan x="104.88145" y="551.137206">མདུན་འཁར་འཇའ་འོད་གུར་ཁྱིམ་པད་ཟླའི་སྟེང་༔</tspan>
+                <tspan x="104.88145" y="597.137206">རྩ་བའི་བླ་མ་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང༔</tspan>
+                <tspan x="104.88145" y="643.137206">རྩ་གསུམ་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་ཀྱིས་བསྐོར༔ </tspan>
             </text>
             <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
                 <tspan x="50" y="772">Ливень Благодати: </tspan>
