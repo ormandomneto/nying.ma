@@ -8,34 +8,34 @@
         <g id="1" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="НАМО" sketch:type="MSTextLayer" font-family="Geometria" font-size="26.8110994" font-weight="260" line-spacing="34" fill="#000000">
-                <tspan x="720.781032" y="179.264524">НАМО</tspan>
-                <tspan x="720.781032" y="213.264524">К Владыке Победителей, Великому Оддиянцу</tspan>
-                <tspan x="720.781032" y="247.264524">     прихожу за Прибежищем.</tspan>
-                <tspan x="720.781032" y="281.264524">Всех скитальцев, бессчетных как небо,</tspan>
-                <tspan x="720.781032" y="315.264524">    приведу к состоянию Будды.</tspan>
-                <tspan x="720.781032" y="349.264524"></tspan>
-                <tspan x="720.781032" y="383.264524">Повторить 3 раза.</tspan>
+            <text id="НАМО" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" line-spacing="34" fill="#000000">
+                <tspan x="750" y="202.264524">НАМО</tspan>
+                <tspan x="750" y="236.264524">К Владыке Победителей, Великому Оддиянцу</tspan>
+                <tspan x="750" y="270.264524">     прихожу за Прибежищем.</tspan>
+                <tspan x="750" y="304.264524">Всех скитальцев, бессчетных как небо,</tspan>
+                <tspan x="750" y="338.264524">    приведу к состоянию Будды.</tspan>
+                <tspan x="762.36" y="372.264524"></tspan>
+                <tspan x="762.36" y="406.264524" font-size="20">Повторить 3 раза.</tspan>
             </text>
             <text id="Передо-мной-в-небе,-" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" line-spacing="34" fill="#000000">
-                <tspan x="720.781032" y="544.137206">Передо мной в небе, в шатре радужного света,</tspan>
-                <tspan x="720.781032" y="578.137206">      поверх лотоса и луны (восседает)</tspan>
-                <tspan x="720.781032" y="612.137206">Коренной Гуру, Держатель Ваджра из Оддияны,</tspan>
-                <tspan x="720.781032" y="646.137206">Окруженный безбрежным океаном (божеств) Трёх Корней.</tspan>
+                <tspan x="750" y="544.137206">Передо мной в небе, в шатре радужного света,</tspan>
+                <tspan x="750" y="578.137206">      поверх лотоса и луны (восседает)</tspan>
+                <tspan x="750" y="612.137206">Коренной Гуру, Держатель Ваджра из Оддияны,</tspan>
+                <tspan x="750" y="646.137206">Окруженный безбрежным океаном (божеств) Трёх Корней.</tspan>
             </text>
             <text id="Предварительная-част" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="104.88145" y="118.054388">Предварительная часть. Прибежище и бодхичитта</tspan>
+                <tspan x="104.88145" y="129.054388">Предварительная часть. Прибежище и бодхичитта</tspan>
             </text>
             <text id="Основная-часть.-Визу" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="104.88145" y="476.027194">Основная часть. Визуализация</tspan>
+                <tspan x="104.88145" y="486.027194">Основная часть. Визуализация</tspan>
             </text>
             <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1543.448" y="772">1</tspan>
+                <tspan x="1543.448" y="767">1</tspan>
             </text>
             <text id="ན་མོ༔" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="104.88145" y="184.264524">ན་མོ༔</tspan>
-                <tspan x="104.88145" y="230.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
-                <tspan x="104.88145" y="276.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
+                <tspan x="104.88145" y="204.264524">ན་མོ༔</tspan>
+                <tspan x="104.88145" y="250.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
+                <tspan x="104.88145" y="296.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
             </text>
             <text id="མདུན་འཁར་འཇའ་འོད་གུར" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
                 <tspan x="104.88145" y="551.137206">མདུན་འཁར་འཇའ་འོད་གུར་ཁྱིམ་པད་ཟླའི་སྟེང་༔</tspan>
@@ -43,8 +43,8 @@
                 <tspan x="104.88145" y="643.137206">རྩ་གསུམ་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་ཀྱིས་བསྐོར༔ </tspan>
             </text>
             <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="50" y="772">Ливень Благодати: </tspan>
-                <tspan x="222.962" y="772">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
+                <tspan x="50" y="767">Ливень Благодати: </tspan>
+                <tspan x="222.962" y="767">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
             </text>
         </g>
     </g>

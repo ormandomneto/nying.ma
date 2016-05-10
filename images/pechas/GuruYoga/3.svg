@@ -9,24 +9,24 @@
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
             <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1539.794" y="772">3</tspan>
+                <tspan x="1539.794" y="767">3</tspan>
             </text>
             <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="50" y="772">Ливень Благодати: </tspan>
-                <tspan x="222.962" y="772">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
+                <tspan x="50" y="767">Ливень Благодати: </tspan>
+                <tspan x="222.962" y="767">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
             </text>
             <text id="Семистрочная-молитва-Copy" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
                 <tspan x="96" y="132">Семистрочная молитва</tspan>
             </text>
-            <text id="ХУМ-ОРДЖЕН-ЮЛДЖИ-НУБ-Copy" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" line-spacing="48" fill="#000000">
-                <tspan x="668" y="249">ХУМ ОРДЖЕН ЮЛДЖИ НУБ ДЖАНГ ЦАМ</tspan>
-                <tspan x="668" y="297">ПЕМА ГЕ САР ДОНГ ПО ЛА</tspan>
-                <tspan x="668" y="345">Я МЦЕН ЧОГ ГИ НГО ДРУБ НЕ</tspan>
-                <tspan x="668" y="393">ПЕМА ДЖУНГ НЭ ШЕ СУ ДРАГ</tspan>
-                <tspan x="668" y="441">КХОР ДУ КА ДРО МАНГ ПО КОР</tspan>
-                <tspan x="668" y="489">ЧЕ КЬИ ДЖЕ СУ ДАГ ДРУБ КЬИ</tspan>
-                <tspan x="668" y="537">ДЖИН ДЖИ ЛАБ ЧИР ШЕГ СУ СОЛ</tspan>
-                <tspan x="668" y="585">ГУРУ ПАДМА СИДДХИ ХУМ</tspan>
+            <text id="ХУМ-ОРДЖЕН-ЮЛДЖИ-НУБ" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" line-spacing="48" fill="#000000">
+                <tspan x="750" y="249">ХУМ ОРДЖЕН ЮЛДЖИ НУБ ДЖАНГ ЦАМ</tspan>
+                <tspan x="750" y="297">ПЕМА ГЕ САР ДОНГ ПО ЛА</tspan>
+                <tspan x="750" y="345">Я МЦЕН ЧОГ ГИ НГО ДРУБ НЕ</tspan>
+                <tspan x="750" y="393">ПЕМА ДЖУНГ НЭ ШЕ СУ ДРАГ</tspan>
+                <tspan x="750" y="441">КХОР ДУ КА ДРО МАНГ ПО КОР</tspan>
+                <tspan x="750" y="489">ЧЕ КЬИ ДЖЕ СУ ДАГ ДРУБ КЬИ</tspan>
+                <tspan x="750" y="537">ДЖИН ДЖИ ЛАБ ЧИР ШЕГ СУ СОЛ</tspan>
+                <tspan x="750" y="585">ГУРУ ПАДМА СИДДХИ ХУМ</tspan>
             </text>
             <text id="ཧཱུྃ༔-ཨོ་རྒྱན་ཡུལ་གྱ-copy" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
                 <tspan x="96" y="251">ཧཱུྃ༔</tspan>
@@ -48,7 +48,7 @@
                 <tspan x="96" y="597">གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔</tspan>
             </text>
             <text id="Повторяй,-сколько-мо-Copy" sketch:type="MSTextLayer" font-family="Geometria" font-size="16" font-weight="260" fill="#000000">
-                <tspan x="668" y="668">Повторяй, сколько можешь</tspan>
+                <tspan x="750" y="668">Повторяй, сколько можешь</tspan>
             </text>
             <text id="ཚིག་བདུན་ཅི་འགྲུབ་བཟ-copy" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" fill="#000000">
                 <tspan x="96" y="669">ཚིག་བདུན་ཅི་འགྲུབ་བཟླ༔</tspan>
