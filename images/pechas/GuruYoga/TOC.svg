@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1600px" height="800px" viewBox="0 0 1600 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>TOC</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="TOC" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
+            <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
+            <text id="Содержание-тома" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1375.12" y="749">Содержание тома</tspan>
+            </text>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" fill="#000000">
+                <tspan x="143" y="156.240792">Гуру-йога Падмасамбхавы                                        1—8</tspan>
+                <tspan x="143" y="193.240792">Краткое подношение пиршества                             9—12</tspan>
+                <tspan x="143" y="230.240792">Крюк милосердия                                                        13—14</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

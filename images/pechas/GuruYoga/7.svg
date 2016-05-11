@@ -8,8 +8,8 @@
         <g id="7" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1539.1" y="749">7</tspan>
+            <text id="9" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1537.24" y="749">9</tspan>
             </text>
             <text id="Краткое-подношение-п" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
                 <tspan x="50" y="749">Краткое подношение пиршества 1</tspan>
@@ -31,16 +31,18 @@
                 <tspan x="102.16" y="192">Краткое подношение пиршества Семи Ваджрных строк </tspan>
             </text>
             <text id="В-необъятном-сосуде-" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="543" y="257">В необъятном сосуде – черепе</tspan>
-                <tspan x="543" y="302">Средства и мудрость – еду и питье расположив,</tspan>
-                <tspan x="543" y="347">      (очисти и благослови с)</tspan>
+                <tspan x="557.832" y="257">В необъятном сосуде – черепе</tspan>
+                <tspan x="557.832" y="302">Средства и мудрость – еду и питье расположив,</tspan>
+                <tspan x="543" y="347">      (очисти и благослови с) </tspan>
+                <tspan x="1027.57108" y="346.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
             <text id="В-необъятном-сосуде-" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="541" y="471">В необъятном сосуде черепа - дхармадхату</tspan>
-                <tspan x="541" y="516">Пять светильников, пять железных крюков и прочее,</tspan>
-                <tspan x="541" y="561">Видимое и существующее, объекты желаний </tspan>
-                <tspan x="541" y="606">      расположены как подношение.</tspan>
-                <tspan x="541" y="651">Еда и питьё приумножаются как сокровищница неба.</tspan>
+                <tspan x="555.832" y="471">В необъятном сосуде черепа - дхармадхату</tspan>
+                <tspan x="555.832" y="516">Пять светильников, пять железных крюков и прочее,</tspan>
+                <tspan x="555.832" y="561">Видимое и существующее, объекты желаний </tspan>
+                <tspan x="555.832" y="606">      расположены как подношение.</tspan>
+                <tspan x="541" y="651">Еда и питьё приумножаются как сокровищница неба. </tspan>
+                <tspan x="1492.99508" y="650.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
             <text id="རཾ་ཡཾ་ཁཾ༔-ཨོཾ་ཨཱཿཧཱུྃ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
                 <tspan x="97" y="400">རཾ་ཡཾ་ཁཾ༔ ཨོཾ་ཨཱཿཧཱུྃ༔</tspan>

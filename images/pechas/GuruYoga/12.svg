@@ -8,8 +8,8 @@
         <g id="12" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1531.28" y="749">12</tspan>
+            <text id="8" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1537.08" y="749">8</tspan>
             </text>
             <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
                 <tspan x="50" y="749">Гуру-йога Падмасамбхавы 8</tspan>

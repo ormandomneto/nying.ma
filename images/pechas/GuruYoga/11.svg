@@ -8,8 +8,8 @@
         <g id="11" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1535.44" y="749">11</tspan>
+            <text id="7" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1539.1" y="749">7</tspan>
             </text>
             <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
                 <tspan x="50" y="749">Гуру-йога Падмасамбхавы  7</tspan>
@@ -21,21 +21,23 @@
                 <tspan x="96" y="434">Благопожелание</tspan>
             </text>
             <text id="Хо!-Всю-добродетель," sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="556" y="189">Хо! Всю добродетель, накопленную, в трёх временах,</tspan>
-                <tspan x="556" y="234">       представленную этой [практикой],</tspan>
-                <tspan x="556" y="279">Я посвящаю в состоянии вне опор трёх миров.</tspan>
-                <tspan x="556" y="324">Разумные существа, несчётные, как небо, без единого </tspan>
-                <tspan x="556" y="369">исключения,</tspan>
-                <tspan x="556" y="414">Да обретут быстро всеведение Будды.</tspan>
+                <tspan x="570.832" y="189">Хо! Всю добродетель, накопленную, в трёх временах,</tspan>
+                <tspan x="570.832" y="234">       представленную этой [практикой],</tspan>
+                <tspan x="570.832" y="279">Я посвящаю в состоянии вне опор трёх миров.</tspan>
+                <tspan x="570.832" y="324">Разумные существа, несчётные, как небо,</tspan>
+                <tspan x="570.832" y="369">       без единого исключения,</tspan>
+                <tspan x="556" y="414">Да обретут быстро всеведение Будды. </tspan>
+                <tspan x="1244.15108" y="413.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
             <text id="Хо!-Владыка,-воплоща" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="503" y="459">Хо! Владыка, воплощающий океан объектов Прибежища,</tspan>
-                <tspan x="503" y="504">Гуру из Оддияны – Рождённый в Озере,</tspan>
-                <tspan x="503" y="549">Согласно твоим сердечным намерениям </tspan>
-                <tspan x="503" y="594">     и благопожеланиям</tspan>
-                <tspan x="904.184" y="594" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="503" y="639">Пусть воссияют славные признаки добродетели</tspan>
-                <tspan x="503" y="684">     Учения и скитальцев!</tspan>
+                <tspan x="517.832" y="459">Хо! Владыка, воплощающий океан объектов Прибежища,</tspan>
+                <tspan x="517.832" y="504">Гуру из Оддияны – Рождённый в Озере,</tspan>
+                <tspan x="517.832" y="549">Согласно твоим сердечным намерениям </tspan>
+                <tspan x="517.832" y="594">     и благопожеланиям</tspan>
+                <tspan x="919.016" y="594" font-family="Kailasa" font-weight="normal"></tspan>
+                <tspan x="517.832" y="639">Пусть воссияют славные признаки добродетели</tspan>
+                <tspan x="503" y="684">     Учения и скитальцев! </tspan>
+                <tspan x="933.931077" y="683.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
             <text id="ཧོཿ-འདིས་མཚོན་དུས་གས" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="40" fill="#000000">
                 <tspan x="96" y="203">ཧོཿ འདིས་མཚོན་དུས་གསུམ་བསགས་པའི་དགེ༔</tspan>
