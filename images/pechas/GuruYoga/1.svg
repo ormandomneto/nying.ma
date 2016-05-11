@@ -8,43 +8,45 @@
         <g id="1" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="НАМО" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" line-spacing="34" fill="#000000">
-                <tspan x="750" y="202.264524">НАМО</tspan>
-                <tspan x="750" y="236.264524">К Владыке Победителей, Великому Оддиянцу</tspan>
-                <tspan x="750" y="270.264524">     прихожу за Прибежищем.</tspan>
-                <tspan x="750" y="304.264524">Всех скитальцев, бессчетных как небо,</tspan>
-                <tspan x="750" y="338.264524">    приведу к состоянию Будды.</tspan>
-                <tspan x="762.36" y="372.264524"></tspan>
-                <tspan x="762.36" y="406.264524" font-size="20">Повторить 3 раза.</tspan>
+            <text id="НАМО༔-К-Владыке-Побе" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
+                <tspan x="608.88145" y="228.796751">НАМО</tspan>
+                <tspan x="718.728527" y="228.264524" font-family="Kailasa" font-weight="normal">༔</tspan>
+                <tspan x="736.905758" y="228.796751"> К Владыке Победителей,  </tspan>
+                <tspan x="623.71345" y="278.796751">      Великому Оддиянцу прихожу за Прибежищем.</tspan>
+                <tspan x="623.71345" y="323.796751">Всех скитальцев, бессчетных как небо, </tspan>
+                <tspan x="623.71345" y="368.796751">      приведу к состоянию Будды.          </tspan>
+                <tspan x="1287.04945" y="368.796751" font-size="24">Повторить 3 раза.</tspan>
             </text>
-            <text id="Передо-мной-в-небе,-" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" line-spacing="34" fill="#000000">
-                <tspan x="750" y="544.137206">Передо мной в небе, в шатре радужного света,</tspan>
-                <tspan x="750" y="578.137206">      поверх лотоса и луны (восседает)</tspan>
-                <tspan x="750" y="612.137206">Коренной Гуру, Держатель Ваджра из Оддияны,</tspan>
-                <tspan x="750" y="646.137206">Окруженный безбрежным океаном (божеств) Трёх Корней.</tspan>
+            <text id="Передо-мной-в-небе,-" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
+                <tspan x="612.88145" y="492.709518">Передо мной в небе, в шатре радужного света,</tspan>
+                <tspan x="612.88145" y="537.709518">      поверх лотоса и луны (восседает)</tspan>
+                <tspan x="612.88145" y="582.709518">Коренной Гуру, Держатель Ваджра из Оддияны,</tspan>
+                <tspan x="612.88145" y="627.709518">Окруженный безбрежным океаном</tspan>
+                <tspan x="612.88145" y="672.709518">      (божеств) Трёх Корней.</tspan>
             </text>
             <text id="Предварительная-част" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
                 <tspan x="104.88145" y="129.054388">Предварительная часть. Прибежище и бодхичитта</tspan>
             </text>
             <text id="Основная-часть.-Визу" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="104.88145" y="486.027194">Основная часть. Визуализация</tspan>
+                <tspan x="104.88145" y="424">Основная часть. Визуализация</tspan>
             </text>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1543.448" y="767">1</tspan>
+            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1542.72" y="749">1</tspan>
             </text>
             <text id="ན་མོ༔" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="104.88145" y="204.264524">ན་མོ༔</tspan>
-                <tspan x="104.88145" y="250.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
-                <tspan x="104.88145" y="296.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
+                <tspan x="104.88145" y="224.264524">ན་མོ༔</tspan>
+                <tspan x="179.249143" y="228.796751" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104.88145" y="270.264524">རྒྱལ་དབང་ཨོ་རྒྱན་ཆེན་པོར་སྐྱབས་སུ་མཆི༔</tspan>
+                <tspan x="514.104527" y="274.796751" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104.88145" y="316.264524">མཁའ་མཉམ་འགྲོ་ཀུན་སངས་རྒྱས་ཐོབ་པར་བྱ༔</tspan>
             </text>
             <text id="མདུན་འཁར་འཇའ་འོད་གུར" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="104.88145" y="551.137206">མདུན་འཁར་འཇའ་འོད་གུར་ཁྱིམ་པད་ཟླའི་སྟེང་༔</tspan>
-                <tspan x="104.88145" y="597.137206">རྩ་བའི་བླ་མ་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང༔</tspan>
-                <tspan x="104.88145" y="643.137206">རྩ་གསུམ་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་ཀྱིས་བསྐོར༔ </tspan>
+                <tspan x="104.88145" y="488.709518">མདུན་འཁར་འཇའ་འོད་གུར་ཁྱིམ་པད་ཟླའི་སྟེང་༔</tspan>
+                <tspan x="104.88145" y="534.709518">རྩ་བའི་བླ་མ་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང༔</tspan>
+                <tspan x="104.88145" y="580.709518">རྩ་གསུམ་རབ་འབྱམས་རྒྱ་མཚོའི་ཚོགས་ཀྱིས་བསྐོར༔ </tspan>
             </text>
-            <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="50" y="767">Ливень Благодати: </tspan>
-                <tspan x="222.962" y="767">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
+                <tspan x="50" y="747">Гуру-йога Падмасамбхавы 1</tspan>
             </text>
         </g>
     </g>

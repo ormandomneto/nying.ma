@@ -8,51 +8,51 @@
         <g id="3" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1539.794" y="767">3</tspan>
+            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1538.66" y="749">3</tspan>
             </text>
-            <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="50" y="767">Ливень Благодати: </tspan>
-                <tspan x="222.962" y="767">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
+                <tspan x="50" y="749">Гуру-йога Падмасамбхавы 3</tspan>
             </text>
-            <text id="Семистрочная-молитва-Copy" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
+            <text id="Семистрочная-молитва" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
                 <tspan x="96" y="132">Семистрочная молитва</tspan>
             </text>
-            <text id="ХУМ-ОРДЖЕН-ЮЛДЖИ-НУБ" sketch:type="MSTextLayer" font-family="Geometria" font-size="30" font-weight="260" line-spacing="48" fill="#000000">
-                <tspan x="750" y="249">ХУМ ОРДЖЕН ЮЛДЖИ НУБ ДЖАНГ ЦАМ</tspan>
-                <tspan x="750" y="297">ПЕМА ГЕ САР ДОНГ ПО ЛА</tspan>
-                <tspan x="750" y="345">Я МЦЕН ЧОГ ГИ НГО ДРУБ НЕ</tspan>
-                <tspan x="750" y="393">ПЕМА ДЖУНГ НЭ ШЕ СУ ДРАГ</tspan>
-                <tspan x="750" y="441">КХОР ДУ КА ДРО МАНГ ПО КОР</tspan>
-                <tspan x="750" y="489">ЧЕ КЬИ ДЖЕ СУ ДАГ ДРУБ КЬИ</tspan>
-                <tspan x="750" y="537">ДЖИН ДЖИ ЛАБ ЧИР ШЕГ СУ СОЛ</tspan>
-                <tspan x="750" y="585">ГУРУ ПАДМА СИДДХИ ХУМ</tspan>
+            <text id="ХУМ-ОРДЖЕН-ЮЛДЖИ-НУБ" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" line-spacing="48" fill="#000000">
+                <tspan x="611.832" y="232">ХУМ ОРДЖЕН ЮЛДЖИ НУБ ДЖАНГ ЦАМ</tspan>
+                <tspan x="611.832" y="280">ПЕМА ГЕ САР ДОНГ ПО ЛА</tspan>
+                <tspan x="611.832" y="328">Я МЦЕН ЧОГ ГИ НГО ДРУБ НЕ</tspan>
+                <tspan x="611.832" y="376">ПЕМА ДЖУНГ НЭ ШЕ СУ ДРАГ</tspan>
+                <tspan x="611.832" y="424">КХОР ДУ КА ДРО МАНГ ПО КОР</tspan>
+                <tspan x="611.832" y="472">ЧЕ КЬИ ДЖЕ СУ ДАГ ДРУБ КЬИ</tspan>
+                <tspan x="611.832" y="520">ДЖИН ДЖИ ЛАБ ЧИР ШЕГ СУ СОЛ</tspan>
+                <tspan x="597" y="563.772">ГУРУ ПАДМА СИДДХИ ХУМ</tspan>
+                <tspan x="1089.70708" y="562.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
-            <text id="ཧཱུྃ༔-ཨོ་རྒྱན་ཡུལ་གྱ-copy" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="96" y="251">ཧཱུྃ༔</tspan>
-                <tspan x="129.590607" y="265.532227" font-family="TibetanMachineWeb"> </tspan>
-                <tspan x="143.949231" y="251">ཨོ་རྒྱན་ཡུལ་གྱི་ནུབ་བྱང་མཚམས༔</tspan>
-                <tspan x="471.396923" y="265.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="309">པདྨ་གེ་སར་སྡོང་པོ་ལ༔</tspan>
-                <tspan x="322.536923" y="313.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="357">ཡ་མཚན་མཆོག་གི་དངོས་གྲུབ་བརྙེས༔</tspan>
-                <tspan x="457.509231" y="361.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="405">པདྨ་འབྱུང་གནས་ཞེས་སུ་གྲགས༔</tspan>
-                <tspan x="411.096923" y="409.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="453">འཁོར་དུ་མཁའ་འགྲོ་མང་པོས་བསྐོར༔</tspan>
-                <tspan x="450.876923" y="457.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="501">ཁྱེད་ཀྱི་རྗེས་སུ་བདག་བསྒྲུབ་ཀྱིས༔</tspan>
-                <tspan x="418.089231" y="505.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="549">བྱིན་གྱིས་རློབས་ཕྱིར་གཤེགས་སུ་གསོལ༔</tspan>
-                <tspan x="475.758462" y="553.532227" font-family="TibetanMachineWeb"></tspan>
-                <tspan x="96" y="597">གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔</tspan>
+            <text id="ཧཱུྃ༔-ཨོ་རྒྱན་ཡུལ་གྱ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
+                <tspan x="104" y="228">ཧཱུྃ༔</tspan>
+                <tspan x="137.590607" y="242.532227" font-family="TibetanMachineWeb"> </tspan>
+                <tspan x="151.949231" y="228">ཨོ་རྒྱན་ཡུལ་གྱི་ནུབ་བྱང་མཚམས༔</tspan>
+                <tspan x="479.396923" y="242.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="286">པདྨ་གེ་སར་སྡོང་པོ་ལ༔</tspan>
+                <tspan x="330.536923" y="290.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="334">ཡ་མཚན་མཆོག་གི་དངོས་གྲུབ་བརྙེས༔</tspan>
+                <tspan x="465.509231" y="338.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="382">པདྨ་འབྱུང་གནས་ཞེས་སུ་གྲགས༔</tspan>
+                <tspan x="419.096923" y="386.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="430">འཁོར་དུ་མཁའ་འགྲོ་མང་པོས་བསྐོར༔</tspan>
+                <tspan x="458.876923" y="434.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="478">ཁྱེད་ཀྱི་རྗེས་སུ་བདག་བསྒྲུབ་ཀྱིས༔</tspan>
+                <tspan x="426.089231" y="482.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="526">བྱིན་གྱིས་རློབས་ཕྱིར་གཤེགས་སུ་གསོལ༔</tspan>
+                <tspan x="483.758462" y="530.532227" font-family="TibetanMachineWeb"></tspan>
+                <tspan x="104" y="574">གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔</tspan>
             </text>
-            <text id="Повторяй,-сколько-мо-Copy" sketch:type="MSTextLayer" font-family="Geometria" font-size="16" font-weight="260" fill="#000000">
-                <tspan x="750" y="668">Повторяй, сколько можешь</tspan>
+            <text id="Повторяй,-сколько-мо" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" fill="#000000">
+                <tspan x="597" y="662">Повторяй, сколько можешь</tspan>
             </text>
-            <text id="ཚིག་བདུན་ཅི་འགྲུབ་བཟ-copy" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" fill="#000000">
-                <tspan x="96" y="669">ཚིག་བདུན་ཅི་འགྲུབ་བཟླ༔</tspan>
-                <tspan x="256.438154" y="669.021484" font-family="Geometria" font-weight="260"> </tspan>
+            <text id="ཚིག་བདུན་ཅི་འགྲུབ་བཟ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="106" y="659">ཚིག་བདུན་ཅི་འགྲུབ་བཟླ༔</tspan>
+                <tspan x="266.438154" y="659.021484" font-family="Geometria" font-weight="260"> </tspan>
             </text>
         </g>
     </g>

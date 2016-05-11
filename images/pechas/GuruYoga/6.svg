@@ -8,39 +8,38 @@
         <g id="6" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1538.516" y="767">6</tspan>
+            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
+                <tspan x="1537.24" y="749">6</tspan>
             </text>
-            <text id="Ливень-Благодати:-Гу" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="50" y="767">Ливень Благодати: </tspan>
-                <tspan x="222.962" y="767">Гуру-йога Падмасамбхавы, опирающаяся на семь ваджрных строк</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
+                <tspan x="50" y="747">Гуру-йога Падмасамбхавы 6</tspan>
             </text>
             <text id="Колофон" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
                 <tspan x="96" y="132">Колофон</tspan>
             </text>
-            <text id="Так,-усердствуя-с-ко" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" line-spacing="48" fill="#000000">
-                <tspan x="750" y="190">Так, усердствуя с концентрацией в этой гуру-йоге</tspan>
-                <tspan x="750" y="238">Обретёшь достижения Трёх Тайн Гуру.</tspan>
-                <tspan x="750" y="286">«В будущем все скитальцы, монахи и миряне</tspan>
-                <tspan x="750" y="334">Не забывая, молитесь мне, Падмасамбхаве,</tspan>
-                <tspan x="750" y="382">И я буду неразделен с вами в течение трёх времен»</tspan>
-                <tspan x="750" y="430">Таковы его ваджрные слова. САМАЯ.</tspan>
+            <text id="Так,-усердствуя-с-ко" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" fill="#000000">
+                <tspan x="733.888" y="256">Так, усердствуя с концентрацией в этой гуру-йоге</tspan>
+                <tspan x="733.888" y="286">Обретёшь достижения Трёх Тайн Гуру.</tspan>
+                <tspan x="733.888" y="316">«В будущем все скитальцы, монахи и миряне</tspan>
+                <tspan x="733.888" y="346">Не забывая, молитесь мне, Падмасамбхаве,</tspan>
+                <tspan x="733.888" y="376">И я буду неразделен с вами в течение трёх времен»</tspan>
+                <tspan x="724" y="406">Таковы его ваджрные слова. САМАЯ</tspan>
+                <tspan x="1158.71938" y="405.978516" font-family="Kailasa" font-weight="normal">༔</tspan>
             </text>
-            <text id="По-просьбе-Высшего-Х" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" line-spacing="34" fill="#000000">
-                <tspan x="96" y="635">По просьбе Высшего Хранителя Учения Цангпа Друбчена Юпа, Неши Друбчена Ринпоче, других Хранителей Учения, </tspan>
-                <tspan x="96" y="669">их супруг и учеников, это написали Оргъен Намкха Лингпа и йогини Тара Деви. Да будет благо!</tspan>
+            <text id="По-просьбе-Высшего-Х" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" fill="#000000">
+                <tspan x="96" y="628">По просьбе Высшего Хранителя Учения Цангпа Друбчена Юпа, Неши Друбчена Ринпоче, других Хранителей Учения, </tspan>
+                <tspan x="96" y="658">их супруг и учеников, это написали Оргъен Намкха Лингпа и йогини Тара Деви. Да будет благо!</tspan>
             </text>
-            <text id="ཞེས་པའང་ཆོས་ཀྱི་བདག་" sketch:type="MSTextLayer" font-family="Kailasa" font-size="30" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="96" y="529">ཞེས་པའང་ཆོས་ཀྱི་བདག་པོ་རྩང་པ་གྲུབ་ཆེན་གཡུ་པ་མཆོག་དང་གནས་བཞི་གྲུབ་ཆེན་རིན་པོ་ཆེ་དང་ཆོས་བདག་གཟུངས་མ་བུ་སློབ་ཚོགས་ཀྱིས་བསྐུལ་ངོར༔</tspan>
-                <tspan x="96" y="577">ཨོ་རྒྱན་ནམ་མཁའ་གླིང་པ་དང་སྔགས་སྐྱེས་ཏཱ་རེ་དེ་ཝཱི་ཟུང་གིས་བྲིས་པ་དགེ༔ </tspan>
+            <text id="ཞེས་པའང་ཆོས་ཀྱི་བདག་" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" line-spacing="48" fill="#000000">
+                <tspan x="96" y="527">ཞེས་པའང་ཆོས་ཀྱི་བདག་པོ་རྩང་པ་གྲུབ་ཆེན་གཡུ་པ་མཆོག་དང་གནས་བཞི་གྲུབ་ཆེན་རིན་པོ་ཆེ་དང་ཆོས་བདག་གཟུངས་མ་བུ་སློབ་ཚོགས་ཀྱིས་བསྐུལ་ངོར༔</tspan>
+                <tspan x="96" y="575">ཨོ་རྒྱན་ནམ་མཁའ་གླིང་པ་དང་སྔགས་སྐྱེས་ཏཱ་རེ་དེ་ཝཱི་ཟུང་གིས་བྲིས་པ་དགེ༔ </tspan>
             </text>
-            <text id="དེ་ལྟར་རྩེ་གཅིག་བླ་མ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="96" y="197">དེ་ལྟར་རྩེ་གཅིག་བླ་མའི་རྣལ་འབྱོར་འདིར༔</tspan>
-                <tspan x="96" y="245">བརྩོན་པས་གུ་རུའི་གསང་གསུམ་དངོས་གྲུབ་ཐོབ༔</tspan>
-                <tspan x="96" y="293">མ་འོངས་འགྲོ་བ་སེར་སྐྱ་ཐམས་ཅད་ཀྱིས༔</tspan>
-                <tspan x="96" y="341">པདྨང་ཉིད་མ་བརྗེད་གསོལ་ཐོབ་དང་༔</tspan>
-                <tspan x="96" y="389">དུས་གསུམ་འབྲལ་མེད་བསླུ་མེད་རྡོ་རྗེའི་ཚིག༔</tspan>
-                <tspan x="96" y="437">ས་མ་ཡཱ༔ </tspan>
+            <text id="དེ་ལྟར་རྩེ་གཅིག་བླ་མ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" line-spacing="48" fill="#000000">
+                <tspan x="305" y="239">དེ་ལྟར་རྩེ་གཅིག་བླ་མའི་རྣལ་འབྱོར་འདིར༔</tspan>
+                <tspan x="305" y="287">བརྩོན་པས་གུ་རུའི་གསང་གསུམ་དངོས་གྲུབ་ཐོབ༔</tspan>
+                <tspan x="305" y="335">མ་འོངས་འགྲོ་བ་སེར་སྐྱ་ཐམས་ཅད་ཀྱིས༔</tspan>
+                <tspan x="305" y="383">པདྨང་ཉིད་མ་བརྗེད་གསོལ་ཐོབ་དང་༔</tspan>
+                <tspan x="305" y="431">དུས་གསུམ་འབྲལ་མེད་བསླུ་མེད་རྡོ་རྗེའི་ཚིག༔ ས་མ་ཡཱ༔ </tspan>
             </text>
         </g>
     </g>
