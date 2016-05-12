@@ -8,34 +8,30 @@
         <g id="5" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1539.254" y="747">5</tspan>
+            <text sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="18" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1541" y="763">5</tspan>
             </text>
-            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="50" y="749">Гуру-йога Падмасамбхавы 5</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="50" y="765">Гуру-йога Падмасамбхавы 5</tspan>
             </text>
-            <text id="Получение-правомочно" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="96" y="132">Получение правомочности и объединение в состоянии Гуру-йоги</tspan>
+            <text id="Получение-правомочно" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="96" y="116">Получение правомочности и объединение в состоянии Гуру-йоги</tspan>
             </text>
-            <text id="В-трёх-местах-Гуру-и" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="616.832" y="295">В трёх местах Гуру из трёх слогов исходит свет, </tspan>
-                <tspan x="616.832" y="340">Очищает омрачения [моих трёх врат] </tspan>
-                <tspan x="616.832" y="385">      и превращает в Три Ваджра.</tspan>
-                <tspan x="616.832" y="430">Гуру тает в свет и растворяется в [моем] сердце.</tspan>
-                <tspan x="616.832" y="475">Неизмененная, свободная от построений</tspan>
-                <tspan x="602" y="520">      Великая Завершенность А</tspan>
-                <tspan x="1127.71908" y="519.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1145.89631" y="520"> А</tspan>
-                <tspan x="1177.04738" y="519.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1195.22462" y="520"> А</tspan>
-                <tspan x="1226.37569" y="519.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1244.55292" y="520"> </tspan>
+            <text id="В-трёх-местах-Гуру-и" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="32" font-weight="normal" fill="#000000">
+                <tspan x="663.4375" y="306">В трёх местах Гуру из трёх слогов исходит свет, </tspan>
+                <tspan x="663.4375" y="348.65625">Очищает омрачения [моих трёх врат] </tspan>
+                <tspan x="663.4375" y="391.3125">      и превращает в Три Ваджра.</tspan>
+                <tspan x="663.4375" y="433.96875">Гуру тает в свет и растворяется в [моем] сердце.</tspan>
+                <tspan x="663.4375" y="476.625">Неизмененная, свободная от построений</tspan>
+                <tspan x="658" y="508.6875">      Великая Завершенность А А Аx </tspan>
+                <tspan x="1181.66226" y="519.259766" font-family="Kailasa" font-size="24">༔</tspan>
+                <tspan x="1198.23091" y="508.6875"> </tspan>
             </text>
-            <text id="བླ་མའི་གནས་གསུམ་འབྲུ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="96" y="331">བླ་མའི་གནས་གསུམ་འབྲུ་གསུམ་འོད་འཕྲོས་པས༔</tspan>
-                <tspan x="96" y="377">སྒོ་གསུམ་སྒྲིབ་སྦྱངས་རྡོ་རྗེ་གསུམ་དུ་གྱུར༔</tspan>
-                <tspan x="96" y="423">བླ་མ་འོད་ཞུ་རང་གི་སྙིང་གར་ཐིམ༔</tspan>
-                <tspan x="96" y="469">མ་བཅོས་སྤྲོས་བྲལ་རྫོགས་པ་ཆེན་པོར་ཨ༔</tspan>
+            <text id="བླ་མའི་གནས་གསུམ་འབྲུ" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="42" font-weight="normal" line-spacing="54" fill="#000000">
+                <tspan x="96" y="352">བླ་མའི་གནས་གསུམ་འབྲུ་གསུམ་འོད་འཕྲོས་པས༔</tspan>
+                <tspan x="96" y="406">སྒོ་གསུམ་སྒྲིབ་སྦྱངས་རྡོ་རྗེ་གསུམ་དུ་གྱུར༔</tspan>
+                <tspan x="96" y="460">བླ་མ་འོད་ཞུ་རང་གི་སྙིང་གར་ཐིམ༔</tspan>
+                <tspan x="96" y="514">མ་བཅོས་སྤྲོས་བྲལ་རྫོགས་པ་ཆེན་པོར་ཨ༔</tspan>
             </text>
         </g>
     </g>

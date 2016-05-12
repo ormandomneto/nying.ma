@@ -8,42 +8,44 @@
         <g id="8" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="10" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1528.6" y="749">10</tspan>
+            <text id="10" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1530" y="765">10</tspan>
             </text>
-            <text id="Краткое-подношение-п" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="50" y="749">Краткое подношение пиршества 2</tspan>
+            <text id="Краткое-подношение-п" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="50" y="765">Краткое подношение пиршества 2</tspan>
             </text>
-            <text id="ХУМ-ОРГЬЕН-ЮЛГЬИ-НУБ" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="736.832" y="132">ХУМ ОРГЬЕН ЮЛГЬИ НУБ ДЖАНГ ЦАМ</tspan>
-                <tspan x="736.832" y="177">ПЕМА ГЕСАР ДОНГПО ЛА</tspan>
-                <tspan x="736.832" y="222">ЯМЦЕН ЧОКЬИ НГОДРУБ НЕ</tspan>
-                <tspan x="736.832" y="267">ПЕМА ДЖУНГНЭ ШЕСУ ДРАГ</tspan>
-                <tspan x="736.832" y="312">КХОРДУ КХАНДРО МАНГПО КОР</tspan>
-                <tspan x="736.832" y="357">ЧЕКЬИ ДЖЕСУ ДАГ ДРУБ КЬИ</tspan>
-                <tspan x="736.832" y="402">ДОЁН ЦОКЛА ЧЕН ДРЕН НА</tspan>
-                <tspan x="736.832" y="447">ДЖИН ДЖИ ЛАБЧИР ШЕГ СУ СОЛ</tspan>
-                <tspan x="736.832" y="492">НЭЧОК ДИРУ ЧИН ПОБЛА</tspan>
-                <tspan x="736.832" y="537">ЦОК ЧО ЕШЕ ДУЦИР ДЖЮР</tspan>
-                <tspan x="736.832" y="582">ДРУП ЧОК ДАКЛА ВАН ЖИ КУР</tspan>
-                <tspan x="736.832" y="627">ГЕГ ТАН ЛОК ДРЕН ПАРЧЭ СОЛ</tspan>
-                <tspan x="722" y="672">ЧОКТАН ТУНМОН НОДРУП ЦОЛ </tspan>
-                <tspan x="1305.85908" y="671.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
+            <text id="ХУМ༔-ОРГЬЕН-ЮЛГЬИ-НУ" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="32" font-weight="normal" fill="#000000">
+                <tspan x="712" y="141">ХУМ</tspan>
+                <tspan x="767.885337" y="146.467651" font-family="Kokonor" font-size="24">༔</tspan>
+                <tspan x="794.810913" y="141"> ОРГЬЕН ЮЛГЬИ НУБ ДЖАНГ ЦАМ</tspan>
+                <tspan x="717.4375" y="194.25">ПЕМА ГЕСАР ДОНГПО ЛА</tspan>
+                <tspan x="717.4375" y="236.90625">ЯМЦЕН ЧОКЬИ НГОДРУБ НЕ</tspan>
+                <tspan x="717.4375" y="279.5625">ПЕМА ДЖУНГНЭ ШЕСУ ДРАГ</tspan>
+                <tspan x="717.4375" y="322.21875">КХОРДУ КХАНДРО МАНГПО КОР</tspan>
+                <tspan x="717.4375" y="364.875">ЧЕКЬИ ДЖЕСУ ДАГ ДРУБ КЬИ</tspan>
+                <tspan x="717.4375" y="407.53125">ДОЁН ЦОКЛА ЧЕН ДРЕН НА</tspan>
+                <tspan x="717.4375" y="450.1875">ДЖИН ДЖИ ЛАБЧИР ШЕГ СУ СОЛ</tspan>
+                <tspan x="717.4375" y="492.84375">НЭЧОК ДИРУ ЧИН ПОБЛА</tspan>
+                <tspan x="717.4375" y="535.5">ЦОК ЧО ЕШЕ ДУЦИР ДЖЮР</tspan>
+                <tspan x="717.4375" y="578.15625">ДРУП ЧОК ДАКЛА ВАН ЖИ КУР</tspan>
+                <tspan x="717.4375" y="620.8125">ГЕГ ТАН ЛОК ДРЕН ПАРЧЭ СОЛ</tspan>
+                <tspan x="712" y="654.875">ЧОК ТАН ТУН МОН НО ДРУП ЦОЛ </tspan>
+                <tspan x="1259.22909" y="660.342651" font-family="Kokonor" font-size="24">༔</tspan>
             </text>
-            <text id="ཧཱུྃ༔-ཨོ་རྒྱན་ཡུལ་གྱི" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="165" y="118">ཧཱུྃ༔ ཨོ་རྒྱན་ཡུལ་གྱི་ནུབ་བྱང་མཚམས༔ </tspan>
-                <tspan x="165" y="164">པདྨགེ་སར་སྡོང་པོ་ལ༔</tspan>
-                <tspan x="165" y="210">ཡ་མཚན་མཆོག་གི་དངོས་གྲུབ་བརྙེས༔ </tspan>
-                <tspan x="165" y="256">པདྨའབྱུང་གནས་ཞེས་སུ་གྲགས༔</tspan>
-                <tspan x="165" y="302">འཁོར་དུ་མཁའ་འགྲོ་མང་པོས་བསྐོར༔ </tspan>
-                <tspan x="165" y="348">ཁྱེད་ཀྱི་རྗེས་སུ་བདག་སྒྲུབ་ཀྱི༔</tspan>
-                <tspan x="165" y="394">འདོད་ཡོན་ཚོགས་ལ་སྤྱན་འདྲེན་ན༔ </tspan>
-                <tspan x="165" y="440">བྱིན་གྱིས་བརླབ་ཕྱིར་གཤེགས་སུ་གསོལ༔ </tspan>
-                <tspan x="165" y="486">གནས་མཆོག་འདི་རུ་བྱིན་ཕོབ་ལ༔ </tspan>
-                <tspan x="165" y="532">ཚོགས་མཆོད་ཡེ་ཤེས་བདུད་རྩིར་བསྒྱུར༔</tspan>
-                <tspan x="165" y="578">བསྒྲུབ་མཆོག་བདག་ལ་དབང་བཞི་བསྐུར༔</tspan>
-                <tspan x="165" y="624">བགེགས་དང་ལོག་འདྲེན་བར་ཆད་སོལ༔</tspan>
-                <tspan x="165" y="670">མཆོག་དང་ཐུན་མོངས་དངོས་གྲུབ་སྩོལ༔</tspan>
+            <text id="ཧཱུྃ༔-ཨོ་རྒྱན་ཡུལ་གྱི" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="40" font-weight="normal" line-spacing="48" fill="#000000">
+                <tspan x="185" y="119">ཧཱུྃ༔ ཨོ་རྒྱན་ཡུལ་གྱི་ནུབ་བྱང་མཚམས༔ </tspan>
+                <tspan x="185" y="167">པདྨགེ་སར་སྡོང་པོ་ལ༔</tspan>
+                <tspan x="185" y="215">ཡ་མཚན་མཆོག་གི་དངོས་གྲུབ་བརྙེས༔ </tspan>
+                <tspan x="185" y="263">པདྨའབྱུང་གནས་ཞེས་སུ་གྲགས༔</tspan>
+                <tspan x="185" y="311">འཁོར་དུ་མཁའ་འགྲོ་མང་པོས་བསྐོར༔ </tspan>
+                <tspan x="185" y="359">ཁྱེད་ཀྱི་རྗེས་སུ་བདག་སྒྲུབ་ཀྱི༔</tspan>
+                <tspan x="185" y="407">འདོད་ཡོན་ཚོགས་ལ་སྤྱན་འདྲེན་ན༔ </tspan>
+                <tspan x="185" y="455">བྱིན་གྱིས་བརླབ་ཕྱིར་གཤེགས་སུ་གསོལ༔ </tspan>
+                <tspan x="185" y="503">གནས་མཆོག་འདི་རུ་བྱིན་ཕོབ་ལ༔ </tspan>
+                <tspan x="185" y="551">ཚོགས་མཆོད་ཡེ་ཤེས་བདུད་རྩིར་བསྒྱུར༔</tspan>
+                <tspan x="185" y="599">བསྒྲུབ་མཆོག་བདག་ལ་དབང་བཞི་བསྐུར༔</tspan>
+                <tspan x="185" y="647">  བགེགས་དང་ལོག་འདྲེན་བར་ཆད་སོལ༔</tspan>
+                <tspan x="185" y="695">མཆོག་དང་ཐུན་མོངས་དངོས་གྲུབ་སྩོལ༔</tspan>
             </text>
         </g>
     </g>

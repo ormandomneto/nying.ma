@@ -8,35 +8,29 @@
         <g id="9" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="11" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1535.44" y="749">11</tspan>
+            <text id="11" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1530" y="765">11</tspan>
             </text>
-            <text id="Краткое-подношение-п" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="50" y="749">Краткое подношение пиршества 3</tspan>
+            <text id="Краткое-подношение-п" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="50" y="765">Краткое подношение пиршества 3</tspan>
             </text>
-            <text id="ХУМ༔----На-северо-за" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="100" y="121.532227">ХУМ</tspan>
-                <tspan x="173.127077" y="121" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="191.304308" y="121.532227"> </tspan>
-                <tspan x="195.671385" y="121" font-family="Kailasa" font-weight="normal">   </tspan>
-                <tspan x="243.451692" y="121.532227">На северо-западной окраине страны Оддияны,</tspan>
-                <tspan x="114.832" y="171.532227">В ложе цветка на стебле лотоса</tspan>
-                <tspan x="114.832" y="216.532227">[Ты] обрел удивительные высшие достижения,</tspan>
-                <tspan x="114.832" y="261.532227">Прославлен как Лотосорожденный,</tspan>
-                <tspan x="747.352" y="261.532227" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="114.832" y="306.532227">Окружен свитой из множества дакинь.</tspan>
-                <tspan x="114.832" y="351.532227">Следуя тебе, [я] буду практиковать. </tspan>
-                <tspan x="755.992" y="351.532227" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="114.832" y="396.532227">Призываю на пиршество чувственных удовольствий.</tspan>
-                <tspan x="114.832" y="441.532227">Молю, приди и благослови!</tspan>
-                <tspan x="114.832" y="486.532227">Ниспошли благодать в это высшее место. </tspan>
-                <tspan x="861.004" y="486.532227" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="114.832" y="531.532227">Пиршество превращается в нектар изначального знания.</tspan>
-                <tspan x="114.832" y="576.532227">Даруй правомочность нам, высшим практикам,</tspan>
-                <tspan x="114.832" y="621.532227">Устрани препятствия вредоносных и отвлекающих духов,</tspan>
-                <tspan x="1139.032" y="621.532227" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="100" y="666.532227">Даруй высшие и обычные достижения. </tspan>
-                <tspan x="790.779077" y="666" font-family="Kailasa" font-weight="normal">༔</tspan>
+            <text id="ХУМ༔----На-северо-за" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="32" font-weight="normal" fill="#000000">
+                <tspan x="110" y="133.907715">ХУМ</tspan>
+                <tspan x="158.33149" y="130" font-family="Kokonor">༔</tspan>
+                <tspan x="196.04476" y="133.907715">    На северо-западной окраине страны Оддияны,</tspan>
+                <tspan x="115.4375" y="188.018555">В ложе цветка на стебле лотоса</tspan>
+                <tspan x="115.4375" y="230.674805">[Ты] обрел удивительные высшие достижения,</tspan>
+                <tspan x="115.4375" y="273.331055">Прославлен как Лотосорожденный,</tspan>
+                <tspan x="115.4375" y="315.987305">Окружен свитой из множества дакинь.</tspan>
+                <tspan x="115.4375" y="358.643555">Следуя тебе, [я] буду практиковать. </tspan>
+                <tspan x="115.4375" y="401.299805">Призываю на пиршество чувственных удовольствий.</tspan>
+                <tspan x="115.4375" y="443.956055">Молю, приди и благослови!</tspan>
+                <tspan x="115.4375" y="486.612305">Ниспошли благодать в это высшее место. </tspan>
+                <tspan x="115.4375" y="529.268555">Пиршество превращается в нектар изначального знания.</tspan>
+                <tspan x="115.4375" y="571.924805">Даруй правомочность нам, высшим практикам,</tspan>
+                <tspan x="115.4375" y="614.581055">Устрани препятствия вредоносных и отвлекающих духов,</tspan>
+                <tspan x="110" y="648.643555">Даруй высшие и обычные достижения. </tspan>
+                <tspan x="690.088462" y="654.111206" font-family="Kokonor" font-size="24">༔</tspan>
             </text>
         </g>
     </g>

@@ -8,81 +8,51 @@
         <g id="14" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="Э-МА-ХО!-Владыка-Гур" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" line-spacing="46" fill="#000000">
-                <tspan x="466.71345" y="118">Э МА ХО! Владыка Гуру,</tspan>
-                <tspan x="466.71345" y="164">    Воплощение океана объектов Прибежища,</tspan>
-                <tspan x="466.71345" y="210">Провозгласивший, когда пришло время, Тринадцать обетов.  </tspan>
-                <tspan x="466.71345" y="256">Молю Тебя, Драгоценность Оддияны, </tspan>
-                <tspan x="451.88145" y="297.772">Благослови естественное исполнение всех помыслов! </tspan>
-                <tspan x="1419.68053" y="296.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
+            <text id="Э-МА-ХО!-Владыка-Гур" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="32" font-weight="normal" fill="#000000">
+                <tspan x="306.9375" y="113">Э МА ХО! Владыка Гуру, Воплощение океана объектов Прибежища,</tspan>
+                <tspan x="306.9375" y="155.65625">Провозгласивший, когда пришло время, Тринадцать обетов.  </tspan>
+                <tspan x="306.9375" y="198.3125">Молю Тебя, Драгоценность Оддияны, </tspan>
+                <tspan x="301.5" y="232.375">Благослови естественное исполнение всех помыслов! </tspan>
+                <tspan x="1083.94784" y="237.842651" font-family="Kokonor" font-size="24">༔</tspan>
             </text>
-            <text id="Великая-сила-быстро-" sketch:type="MSTextLayer" font-family="Geometria" font-size="18" font-weight="260" fill="#000000">
-                <tspan x="94.7203626" y="529.766113">Великая сила быстро даруется, жар сиддх нисходит, </tspan>
-                <tspan x="563.283901" y="529.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="572.372516" y="529.766113"> В этой жизни все обстоятельства умиротворятся, все желания и цели осуществляться. </tspan>
-                <tspan x="1347.67405" y="529.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1356.76267" y="529.766113"> Это </tspan>
-                <tspan x="94.7203626" y="554.766113">наставление, подобное драгоценности, дарующей всё желаемое, </tspan>
-                <tspan x="680.301901" y="554.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="689.390516" y="554.766113"> Есть особое учение Падмасамбхавы, лёгкое в исполнении и исполненное смысла. </tspan>
-                <tspan x="1426.85605" y="554.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1435.94467" y="554.766113"> </tspan>
-                <tspan x="94.7203626" y="579.766113">САМАЯ </tspan>
-                <tspan x="164.331901" y="579.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="173.420516" y="579.766113"> Печать. Печать. Печать. </tspan>
-                <tspan x="389.768055" y="579.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="398.85667" y="579.766113"> Тайна. </tspan>
-                <tspan x="461.412209" y="579.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="470.500824" y="579.766113"> Растворено в знаке. </tspan>
-                <tspan x="656.068363" y="579.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="665.156978" y="579.766113">  Нуден Дордже из шкатулки Ведения скопировал, и как океан преданной веры ясно </tspan>
-                <tspan x="94.7203626" y="604.766113">составил. </tspan>
-                <tspan x="181.503901" y="604.5" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="190.592516" y="604.766113"> Да пребудет добродетель и удача!  «Если эту краткую молитву, естественно исполняющую желания,  каждый человек повторит десять тысяч раз, </tspan>
-                <tspan x="94.7203626" y="629.766113">то будут обретены исполнение ста миллионов желаний вместе с корнем добродетели собрания Дхармы и самоосвобождения всего встречающегося».  Так </tspan>
-                <tspan x="94.7203626" y="652.766113">сказали Владыки Прибежища, Воплощённые Драгоценности, Отец и Мать (тертоны Оргьен Намкха Лингпа и Таре Дэчен Лхамо), и так записано. Перевёл </tspan>
-                <tspan x="94.7203626" y="675.766113">лама Пема Дудул Дордже в день новолуния 11 месяца года дерева-овцы.</tspan>
+            <text id="Нуден-Дордже-из-шкат" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="18" font-weight="normal" fill="#000000">
+                <tspan x="91" y="607.094574">Нуден Дордже из шкатулки Ведения скопировал, и как океан преданной веры ясно составил. </tspan>
+                <tspan x="869.580995" y="605" font-family="Kokonor">༔</tspan>
+                <tspan x="890.794709" y="607.094574"> Да пребудет добродетель и удача!  «Если эту краткую молитву, </tspan>
+                <tspan x="91" y="631.488953">естественно исполняющую желания,  каждый человек повторит десять тысяч раз, то будут обретены исполнение ста миллионов желаний вместе с корнем </tspan>
+                <tspan x="91" y="655.483093">добродетели собрания Дхармы и самоосвобождения всего встречающегося».  Так сказали Владыки Прибежища, Воплощённые Драгоценности, Отец и Мать (тертоны </tspan>
+                <tspan x="91" y="679.477234">Оргьен Намкха Лингпа и Таре Дэчен Лхамо), и так записано. Перевёл лама Пема Дудул Дордже в день новолуния 11 месяца года дерева-овцы.</tspan>
             </text>
-            <text id="Крюк-Милосердия" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="94.8814505" y="118">Крюк Милосердия</tspan>
+            <text id="Великая-сила-быстро-" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="803.398438" y="297.5">Великая сила быстро даруется, жар сиддх нисходит, </tspan>
+                <tspan x="1297.09961" y="297.5" font-family="Kokonor"></tspan>
+                <tspan x="803.398438" y="325.160156">В этой жизни все обстоятельства умиротворятся, </tspan>
+                <tspan x="803.398438" y="352.820312">     все желания и цели осуществлятся. </tspan>
+                <tspan x="1165.09766" y="352.820312" font-family="Kokonor"></tspan>
+                <tspan x="803.398438" y="380.480469">Это наставление, подобное драгоценности, дарующей всё желаемое, </tspan>
+                <tspan x="1452.57812" y="380.480469" font-family="Kokonor"></tspan>
+                <tspan x="803.398438" y="408.140625">Есть особое учение Падмасамбхавы,</tspan>
+                <tspan x="803.398438" y="435.800781">     лёгкое в исполнении и исполненное смысла.</tspan>
+                <tspan x="800" y="457.464844">САМАЯ Печать. Печать. Печать. Тайна. Растворено в знаке. </tspan>
+                <tspan x="1350.07178" y="462.054047" font-family="Kokonor" font-size="14">༔</tspan>
+                <tspan x="1365.55181" y="457.464844">  </tspan>
             </text>
-            <text id="Колофон" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="94.8814505" y="386.5">Колофон</tspan>
+            <text id="མཐུ་ཆེ་བྱིན་མྱུར་དངོ" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="30" font-weight="normal" line-spacing="42" fill="#000000">
+                <tspan x="91" y="309.5">མཐུ་ཆེ་བྱིན་མྱུར་དངོས་གྲུབ་དྲོད་འབེབས་ཅིང་༔ ཚེ་འདིའི་རྐྱེན་ཞི་བསམ་དོན་ཀུན་འགྲུབ་པའི༔</tspan>
+                <tspan x="91" y="351.5">ཡིད་བཞིན་བསམ་འཕེལ་ལྟ་བུའི་གདམས་པ་འདི༔ བྱ་སླ་དོན་ཆེ་པདྨའི་ཁྱད་ཆོས་ཡིན༔</tspan>
+                <tspan x="91" y="393.5">ས་མ་ཡཱ༔ རྒྱ་རྒྱ་རྒྱ༔ གུ་ཧྱ</tspan>
+                <tspan x="295.462891" y="393.5">༔</tspan>
+                <tspan x="305.746094" y="393.5"> བརྡ་ཐིམ༔ </tspan>
             </text>
-            <text id="མཐུ་ཆེ་བྱིན་མྱུར་དངོ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" line-spacing="34" fill="#000000">
-                <tspan x="451.88145" y="382.5">མཐུ་ཆེ་བྱིན་མྱུར་དངོས་གྲུབ་དྲོད་འབེབས་ཅིང་༔</tspan>
-                <tspan x="737.341143" y="382.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="740.252527" y="382.5">ཚེ་འདིའི་རྐྱེན་ཞི་བསམ་དོན་ཀུན་འགྲུབ་པའི༔</tspan>
-                <tspan x="1007.81376" y="382.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="1010.72514" y="382.5">ཡིད་བཞིན་བསམ་འཕེལ་ལྟ་བུའི་གདམས་པ་འདི༔</tspan>
-                <tspan x="1306.65253" y="382.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="1309.56391" y="382.5">བྱ་སླ་དོན་ཆེ་པདྨི་ཁྱད་</tspan>
-                <tspan x="451.88145" y="416.5">ཆོས་ཡིན༔</tspan>
-                <tspan x="517.408835" y="416.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="520.32022" y="416.5">ས་མ་ཡཱ༔</tspan>
-                <tspan x="578.333758" y="416.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="581.245143" y="416.5">རྒྱ་རྒྱ་རྒྱ༔</tspan>
-                <tspan x="637.550989" y="416.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="640.462374" y="416.5">གུ་</tspan>
-                <tspan x="660.186681" y="416.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="663.098066" y="416.5">བརྡ་ཐིམ༔</tspan>
-                <tspan x="726.530066" y="416.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="729.44145" y="416.5">ནུས་ལྡན་རྡོ་རྗེའི་རིག་པའི་སྒྲོམ་བུ་ལས་ཞལ་བཤུས་ཏེ་དད་པའི་མོས་མཚོར་གསལ་བར་བཀོད་པ་དགེ་ཞིང་བཀྲ་ཤིས་པར་</tspan>
-                <tspan x="451.88145" y="450.5">གྱུར་ཅིག༔</tspan>
-                <tspan x="516.98422" y="450.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="519.895604" y="450.5">སརྦ་མངྒ་ལཾ།</tspan>
-                <tspan x="599.12145" y="450.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="602.032835" y="450.5">བསམ་ལྷུན་བསྡུས་པ་འདི་མི་རེ་རེས་ཁྲི་གཅིག་བཟླས་ན་ཆོས་འཚོགས་འབྲེལ་ཚད་རང་གྲོལ་ཀྱི་དགེ་རྩ་དང་མཉམ་དུ་བསམ་ལྷུན་དུང་ཕྱུར་ཐོབ།</tspan>
-                <tspan x="1430.01253" y="450.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="451.88145" y="484.5">སྐྱབས་རྗེ་ནམ་སྤྲུལ་རིན་པོ་ཆེ་ཡབ་ཡུམ་ཀྱི་ཞལ་ནས་གསུངས་བ་བཞིན་བྲིས་སོ།།</tspan>
-                <tspan x="918.347297" y="484.521484" font-family="Geometria" font-weight="260"> </tspan>
-                <tspan x="921.258681" y="484.5">།།</tspan>
+            <text id="ནུས་ལྡན་རྡོ་རྗེའི་རི" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="30" font-weight="normal" line-spacing="42" fill="#000000">
+                <tspan x="91" y="535">ནུས་ལྡན་རྡོ་རྗེའི་རིག་པའི་སྒྲོམ་བུ་ལས་ཞལ་བཤུས་ཏེ་དད་པའི་མོས་མཚོར་གསལ་བར་བཀོད་པ་དགེ་ཞིང་བཀྲ་ཤིས་པར་གྱུར་ཅིག༔ སརྦ་མངྒ་ལཾ། བསམ་ལྷུན་བསྡུས་པ་འདི་མི་རེ་རེས་ཁྲི་གཅིག་བཟླས་</tspan>
+                <tspan x="91" y="577">ན་ཆོས་འཚོགས་འབྲེལ་ཚད་རང་གྲོལ་ཀྱི་དགེ་རྩ་དང་མཉམ་དུ་བསམ་ལྷུན་དུང་ཕྱུར་ཐོབ། སྐྱབས་རྗེ་ནམ་སྤྲུལ་རིན་པོ་ཆེ་ཡབ་ཡུམ་ཀྱི་ཞལ་ནས་གསུངས་བ་བཞིན་བྲིས་སོ།། །།</tspan>
             </text>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1530.16" y="749">14</tspan>
+            <text sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1530" y="765">14</tspan>
             </text>
-            <text id="--Крюк-милосердия-2" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="40" y="749">  Крюк милосердия 2</tspan>
+            <text id="--Крюк-милосердия-2" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="40" y="765">  Крюк милосердия 2</tspan>
             </text>
         </g>
     </g>

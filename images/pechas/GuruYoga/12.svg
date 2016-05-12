@@ -8,34 +8,32 @@
         <g id="12" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text id="8" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1537.08" y="749">8</tspan>
+            <text id="8" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1540" y="765">8</tspan>
             </text>
-            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="50" y="749">Гуру-йога Падмасамбхавы 8</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="50" y="765">Гуру-йога Падмасамбхавы 8</tspan>
             </text>
-            <text id="Колофон" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="96" y="132">Колофон</tspan>
+            <text id="Имеющий-связь-с-этой" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="564.078125" y="324.492188">Имеющий связь с этой великой драгоценной сутью</tspan>
+                <tspan x="564.078125" y="357.484375">Перенесётся на Славную гору Чамары [т.е., в Чистую Землю Падмасамбхавы].</tspan>
+                <tspan x="560" y="386.28125">САМАЯ </tspan>
+                <tspan x="644.275541" y="388.038147" font-family="Kokonor" font-size="20">༔</tspan>
+                <tspan x="667.166647" y="386.28125"> </tspan>
             </text>
-            <text id="Имеющий-связь-с-этой" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" fill="#000000">
-                <tspan x="107.888" y="262">Имеющий связь с этой великой драгоценной сутью</tspan>
-                <tspan x="107.888" y="292">Перенесётся на Славную гору Чамары [т.е., в Чистую Землю Падмасамбхавы].</tspan>
-                <tspan x="98" y="322">САМАЯ </tspan>
-                <tspan x="193.046154" y="322" font-family="Kailasa" font-size="20" font-weight="normal">༔</tspan>
-                <tspan x="201.496615" y="322"> </tspan>
+            <text id="Чувствуя-настоятельн" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="24" font-weight="normal" fill="#000000">
+                <tspan x="94.5" y="626">Чувствуя настоятельную необходимость, это быстро записали Оргъен Намка Лингпа и Таре Дечен Лхамо в городе Ченгду.  </tspan>
+                <tspan x="94.5" y="658.992188">Эту краткую глубокую практику быстро перевёл лама Пема Дудул в день полнолуния (11 июля 2006 г.) в городе Москва.</tspan>
             </text>
-            <text id="Чувствуя-настоятельн" sketch:type="MSTextLayer" font-family="Geometria" font-size="24" font-weight="260" fill="#000000">
-                <tspan x="96" y="453">Чувствуя настоятельную необходимость, это быстро записали Оргъен Намка Лингпа и Таре Дечен </tspan>
-                <tspan x="96" y="483">Лхамо в городе Ченгду.  Эту краткую глубокую практику быстро перевёл лама Пема Дудул в день </tspan>
-                <tspan x="96" y="513">полнолуния (11 июля 2006 г.) в городе Москва.</tspan>
-            </text>
-            <text id="ཟབ་བཅུད་ནོར་བུའི་དབྱ" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="96" y="217">ཟབ་བཅུད་ནོར་བུའི་དབྱིག་ཆེན་འདིར༔ འབྲེལ་ཚད་རྔ་ཡབ་དཔལ་རིར་བསྒྲོད༔ ས་མ་ཡཱ༔ རྒྱ་རྒྱ་རྒྱ༔</tspan>
+            <text id="ཟབ་བཅུད་ནོར་བུའི་དབྱ" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="30" font-weight="normal" line-spacing="42" fill="#000000">
+                <tspan x="233" y="323.368164">ཟབ་བཅུད་ནོར་བུའི་དབྱིག་ཆེན་འདིར༔ </tspan>
+                <tspan x="233" y="365.368164">འབྲེལ་ཚད་རྔ་ཡབ་དཔལ་རིར་བསྒྲོད༔ </tspan>
+                <tspan x="233" y="407.368164">ས་མ་ཡཱ༔ རྒྱ་རྒྱ་རྒྱ༔</tspan>
             </text>
             <text id="ཟབ་བཅུད་ནོར་བུའི་དབྱ-copy" sketch:type="MSTextLayer" font-family="Kailasa" font-size="24" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="111.384615" y="312"></tspan>
-                <tspan x="111.384615" y="360"></tspan>
-                <tspan x="98" y="404.978516">ཞེས་པའང་དགོས་མཁོའི་ཕྱིར་དུ། ཨོ་རྒྱན་ནམ་མཁའ་གླིང་པ་དང་། ཏཱ་རེ་བདེ་ཆེན་ལྷ་མོ་ཟུང་གིས། ཁྲིན་ཏུའུ་གྲོང་ཁྱེར་ནས་འཕྲལ་བྲིས་དགེ།  །།</tspan>
+                <tspan x="111.730769" y="484"></tspan>
+                <tspan x="111.730769" y="532"></tspan>
+                <tspan x="95" y="569.223145" font-size="30">ཞེས་པའང་དགོས་མཁོའི་ཕྱིར་དུ། ཨོ་རྒྱན་ནམ་མཁའ་གླིང་པ་དང་། ཏཱ་རེ་བདེ་ཆེན་ལྷ་མོ་ཟུང་གིས། ཁྲིན་ཏུའུ་གྲོང་ཁྱེར་ནས་འཕྲལ་བྲིས་དགེ།  །།</tspan>
             </text>
         </g>
     </g>

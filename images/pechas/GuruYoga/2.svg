@@ -8,42 +8,36 @@
         <g id="2" sketch:type="MSLayerGroup">
             <rect id="Rectangle-1" stroke="#979797" stroke-width="4" sketch:type="MSShapeGroup" x="50" y="50" width="1500" height="675"></rect>
             <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="1600" height="800"></rect>
-            <text sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" sketch:alignment="right" fill="#000000">
-                <tspan x="1538.56" y="749">2</tspan>
+            <text sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" sketch:alignment="right" fill="#000000">
+                <tspan x="1540" y="765">2</tspan>
             </text>
-            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Geometria" font-size="20" font-weight="260" fill="#000000">
-                <tspan x="50" y="749">Гуру-йога Падмасамбхавы 2</tspan>
+            <text id="Гуру-йога-Падмасамбх" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="20" font-weight="normal" fill="#000000">
+                <tspan x="50" y="765">Гуру-йога Падмасамбхавы 2</tspan>
             </text>
-            <text id="Призывание" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" line-spacing="48" fill="#000000">
-                <tspan x="107" y="135">Призывание</tspan>
+            <text id="Призывание" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="24" font-weight="normal" line-spacing="48" fill="#000000">
+                <tspan x="107" y="119">Призывание</tspan>
             </text>
-            <text id="Молюсь-с-исключитель" sketch:type="MSTextLayer" font-family="Geometria" font-size="36" font-weight="260" fill="#000000">
-                <tspan x="624.832" y="175">Молюсь с исключительной верой </tspan>
-                <tspan x="624.832" y="220">      и преданностью трёх врат.</tspan>
-                <tspan x="624.832" y="265">Все возникающее предлагаю </tspan>
-                <tspan x="624.832" y="310">      как облака подношений </tspan>
-                <tspan x="624.832" y="355">      пяти чувственных удовольствий.</tspan>
-                <tspan x="624.832" y="400">Признаюсь и раскаиваюсь </tspan>
-                <tspan x="624.832" y="445">      в нарушениях и разрушениях</tspan>
-                <tspan x="624.832" y="490">      священных обетов.</tspan>
-                <tspan x="624.832" y="535">Пока не обрету Просветления,</tspan>
-                <tspan x="624.832" y="580">      заботься [обо мне] с любовью и милосердием.</tspan>
-                <tspan x="1511.26" y="580" font-family="Kailasa" font-weight="normal"></tspan>
-                <tspan x="610" y="625">Молю, даруй достижения Ваджр трёх тайн. </tspan>
-                <tspan x="1376.27108" y="624.467773" font-family="Kailasa" font-weight="normal">༔</tspan>
-                <tspan x="1409.28031" y="625" font-family="Kailasa" font-weight="normal"></tspan>
+            <text id="Молюсь-с-исключитель" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="32" font-weight="normal" fill="#000000">
+                <tspan x="692.4375" y="184">Молюсь с исключительной верой </tspan>
+                <tspan x="692.4375" y="226.65625">      и преданностью трёх врат.</tspan>
+                <tspan x="692.4375" y="269.3125">Все возникающее предлагаю </tspan>
+                <tspan x="692.4375" y="311.96875">      как облака подношений </tspan>
+                <tspan x="692.4375" y="354.625">      пяти чувственных удовольствий.</tspan>
+                <tspan x="692.4375" y="397.28125">Признаюсь и раскаиваюсь </tspan>
+                <tspan x="692.4375" y="439.9375">      в нарушениях и разрушениях</tspan>
+                <tspan x="692.4375" y="482.59375">      священных обетов.</tspan>
+                <tspan x="692.4375" y="525.25">Пока не обрету Просветления,</tspan>
+                <tspan x="692.4375" y="567.90625">      заботься [обо мне] с любовью и милосердием.</tspan>
+                <tspan x="687" y="601.96875">Молю, даруй достижения Ваджр трёх тайн. </tspan>
+                <tspan x="1333.19784" y="607.436401" font-family="Kokonor" font-size="24">༔</tspan>
+                <tspan x="1365.56091" y="610.5625"></tspan>
             </text>
-            <text id="སྒོ་གསུམ་དད་མོས་དྲག་" sketch:type="MSTextLayer" font-family="Kailasa" font-size="36" font-weight="normal" line-spacing="48" fill="#000000">
-                <tspan x="107" y="304">སྒོ་གསུམ་དད་མོས་དྲག་པོས་གསོལ་བ་འདེབས༔</tspan>
-                <tspan x="550.298462" y="308.532227" font-family="Geometria" font-weight="260"></tspan>
-                <tspan x="107" y="352">གང་ཤར་འདོད་ཡོན་ལྔ་ཡི་མཆོད་སྤྲིན་འབུལ༔</tspan>
-                <tspan x="526.026154" y="356.532227" font-family="Geometria" font-weight="260"></tspan>
-                <tspan x="107" y="400">དམ་ཚིག་ཉམས་ཆག་ཉེས་ལྟུང་མཐོལ་ཞིང་བཤགས༔</tspan>
-                <tspan x="583.695385" y="404.532227" font-family="Geometria" font-weight="260"></tspan>
-                <tspan x="107" y="448">བྱང་ཆུབ་བར་དུ་ཐུགས་བརྩེས་རྗེས་བཟུང་ཞིང་༔</tspan>
-                <tspan x="551.904615" y="452.532227" font-family="Geometria" font-weight="260"></tspan>
-                <tspan x="107" y="496">གསང་གསུམ་རྡོ་རྗེའི་དངོས་གྲུབ་སྩལ་ཏུ་གསོལ༔</tspan>
-                <tspan x="532.946462" y="497.304227" font-family="Geometria" font-weight="260"> </tspan>
+            <text id="སྒོ་གསུམ་དད་མོས་དྲག་" sketch:type="MSTextLayer" font-family="Tibetan Machine Uni" font-size="42" font-weight="normal" line-spacing="54" fill="#000000">
+                <tspan x="107" y="325">སྒོ་གསུམ་དད་མོས་དྲག་པོས་གསོལ་བ་འདེབས༔</tspan>
+                <tspan x="107" y="379">གང་ཤར་འདོད་ཡོན་ལྔ་ཡི་མཆོད་སྤྲིན་འབུལ༔</tspan>
+                <tspan x="107" y="433">དམ་ཚིག་ཉམས་ཆག་ཉེས་ལྟུང་མཐོལ་ཞིང་བཤགས༔</tspan>
+                <tspan x="107" y="487">བྱང་ཆུབ་བར་དུ་ཐུགས་བརྩེས་རྗེས་བཟུང་ཞིང་༔</tspan>
+                <tspan x="107" y="541">གསང་གསུམ་རྡོ་རྗེའི་དངོས་གྲུབ་སྩལ་ཏུ་གསོལ༔ </tspan>
             </text>
         </g>
     </g>
