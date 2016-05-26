@@ -15,6 +15,5 @@ Credits
 -------
 
 * Pema Trinley Rinpoche
-* Jampei Drolma
 * Konchok Tsekyi Dedron
 * Namdak Chodzin
