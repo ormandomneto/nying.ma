@@ -7,7 +7,21 @@
 \contentsline {subsubsection}{\numberline {1.1.1}Краткое описание предельной простоты}{7}
 \contentsline {subsubsection}{\numberline {1.1.2}Промежуточный средний простой подход}{8}
 \contentsline {subsubsection}{\numberline {1.1.3}Детальный и очень детальный подходы}{9}
-\contentsline {subsection}{\numberline {1.2}Три самадхи}{14}
-\contentsline {subsection}{\numberline {1.3}Зарождение поддерживающей и поддерживаемой мандал}{15}
-\contentsline {subsubsection}{\numberline {1.3.1}Ритуал трех ваджр}{19}
-\contentsline {subsubsection}{\numberline {1.3.2}Пять актуализаций Просветления}{20}
+\contentsline {subsection}{\numberline {1.2}Три самадхи}{15}
+\contentsline {subsection}{\numberline {1.3}Зарождение поддерживающей \\ и поддерживаемой мандал}{16}
+\contentsline {paragraph}{}{22}
+\contentsline {subsubsection}{\numberline {1.3.1}Ритуал трех ваджр}{23}
+\contentsline {subsubsection}{\numberline {1.3.2}Пять актуализаций Просветления}{24}
+\contentsline {section}{\numberline {2}Безошибочное условие}{29}
+\contentsline {subsection}{\numberline {2.1}Упражнение на Пути, \\ соответственно своим способностям}{29}
+\contentsline {subsubsection}{\numberline {2.1.1}Сосредоточение ума на божестве}{29}
+\contentsline {subsection}{\numberline {2.2}Исправление ошибок, приводящих к изменениям}{31}
+\contentsline {subsubsection}{\numberline {2.2.1}Отделение от божества}{36}
+\contentsline {subsubsection}{\numberline {2.2.2}Привнесение божества на путь}{36}
+\contentsline {subsubsection}{\numberline {2.2.3}Смешивание своего ума с божеством}{36}
+\contentsline {subsubsection}{\numberline {2.2.4}Объединение божества с реальностью}{41}
+\contentsline {subsubsection}{\numberline {2.2.5}Четыре гвоздя, \\скрепляющих жизненную силу}{41}
+\contentsline {subsection}{\numberline {2.3}Привнесение переживаний на путь}{50}
+\contentsline {subsection}{\numberline {2.4}Результаты пути, связанные с [Уровнем] \\ Четырех Видьядхар — Держателей Ведения}{51}
+\contentsline {subsubsection}{\numberline {2.4.1}Приближение}{51}
+\contentsline {subsubsection}{\numberline {2.4.2}Близкое Приближение}{54}
